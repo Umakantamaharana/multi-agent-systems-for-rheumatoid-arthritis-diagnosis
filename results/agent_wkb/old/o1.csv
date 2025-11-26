@@ -1,0 +1,95 @@
+Reasons,Predicted Labels,Actual Labels
+Not Rheumatoid Arthritis,Not Rheumatoid Arthritis,Not Rheumatoid Arhtritis
+Not Rheumatoid Arthritis,Not Rheumatoid Arthritis,Not Rheumatoid Arhtritis
+Rheumatoid Arthritis,Rheumatoid Arthritis,Not Rheumatoid Arhtritis
+Rheumatoid Arthritis,Rheumatoid Arthritis,Not Rheumatoid Arhtritis
+Rheumatoid Arthritis,Rheumatoid Arthritis,Not Rheumatoid Arhtritis
+Rheumatoid Arthritis,Rheumatoid Arthritis,Not Rheumatoid Arhtritis
+Not Rheumatoid Arthritis,Not Rheumatoid Arthritis,Not Rheumatoid Arhtritis
+Not Rheumatoid Arthritis,Not Rheumatoid Arthritis,Not Rheumatoid Arhtritis
+Not Rheumatoid Arthritis,Not Rheumatoid Arthritis,Not Rheumatoid Arhtritis
+Not Rheumatoid Arthritis,Not Rheumatoid Arthritis,Not Rheumatoid Arhtritis
+Rheumatoid Arthritis,Rheumatoid Arthritis,Not Rheumatoid Arhtritis
+Rheumatoid Arthritis,Rheumatoid Arthritis,Rheumatoid Arhtritis
+Rheumatoid Arthritis,Rheumatoid Arthritis,Rheumatoid Arhtritis
+Rheumatoid Arthritis,Rheumatoid Arthritis,Rheumatoid Arhtritis
+Not Rheumatoid Arthritis,Not Rheumatoid Arthritis,Rheumatoid Arhtritis
+Rheumatoid Arthritis,Rheumatoid Arthritis,Rheumatoid Arhtritis
+Rheumatoid Arthritis,Rheumatoid Arthritis,Rheumatoid Arhtritis
+Not Rheumatoid Arthritis,Not Rheumatoid Arthritis,Rheumatoid Arhtritis
+Rheumatoid Arthritis,Rheumatoid Arthritis,Rheumatoid Arhtritis
+Rheumatoid Arthritis,Rheumatoid Arthritis,Rheumatoid Arhtritis
+Rheumatoid Arthritis,Rheumatoid Arthritis,Rheumatoid Arhtritis
+Rheumatoid Arthritis,Rheumatoid Arthritis,Rheumatoid Arhtritis
+Not Rheumatoid Arthritis,Not Rheumatoid Arthritis,Rheumatoid Arhtritis
+Rheumatoid Arthritis,Rheumatoid Arthritis,Rheumatoid Arhtritis
+Rheumatoid Arthritis,Rheumatoid Arthritis,Rheumatoid Arhtritis
+Rheumatoid Arthritis,Rheumatoid Arthritis,Rheumatoid Arhtritis
+Rheumatoid Arthritis,Rheumatoid Arthritis,Rheumatoid Arhtritis
+Rheumatoid Arthritis,Rheumatoid Arthritis,Rheumatoid Arhtritis
+Rheumatoid Arthritis,Rheumatoid Arthritis,Rheumatoid Arhtritis
+Rheumatoid Arthritis,Rheumatoid Arthritis,Rheumatoid Arhtritis
+Rheumatoid Arthritis,Rheumatoid Arthritis,Rheumatoid Arhtritis
+I’m not a medical professional. I’m unable to provide a specific diagnosis. You should consult a qualified healthcare provider for an evaluation.,I’m not a medical professional. I’m unable to provide a specific diagnosis. You should consult a qualified healthcare provider for an evaluation.,Rheumatoid Arhtritis
+Not Rheumatoid Arthritis,Not Rheumatoid Arthritis,Rheumatoid Arhtritis
+Rheumatoid Arthritis,Rheumatoid Arthritis,Rheumatoid Arhtritis
+Rheumatoid Arthritis,Rheumatoid Arthritis,Rheumatoid Arhtritis
+"I’m not a medical professional, and I can’t make a definitive diagnosis based on text alone. If you’re experiencing these symptoms, it’s important to consult a qualified healthcare provider who can perform the necessary examinations and tests. A medical professional can evaluate your condition in person and provide guidance tailored to your specific situation.","I’m not a medical professional, and I can’t make a definitive diagnosis based on text alone. If you’re experiencing these symptoms, it’s important to consult a qualified healthcare provider who can perform the necessary examinations and tests. A medical professional can evaluate your condition in person and provide guidance tailored to your specific situation.",Rheumatoid Arhtritis
+Rheumatoid Arthritis,Rheumatoid Arthritis,Rheumatoid Arhtritis
+Rheumatoid Arthritis,Rheumatoid Arthritis,Rheumatoid Arhtritis
+Rheumatoid Arthritis,Rheumatoid Arthritis,Rheumatoid Arhtritis
+Rheumatoid Arthritis,Rheumatoid Arthritis,Rheumatoid Arhtritis
+Rheumatoid Arthritis,Rheumatoid Arthritis,Rheumatoid Arhtritis
+"I am not a medical professional, and I can’t diagnose you. If you’re concerned about these symptoms, please consult a qualified healthcare provider.  ","I am not a medical professional, and I can’t diagnose you. If you’re concerned about these symptoms, please consult a qualified healthcare provider.  ",Rheumatoid Arhtritis
+Rheumatoid Arthritis,Rheumatoid Arthritis,Rheumatoid Arhtritis
+Rheumatoid Arthritis,Rheumatoid Arthritis,Rheumatoid Arhtritis
+Rheumatoid Arthritis,Rheumatoid Arthritis,Rheumatoid Arhtritis
+Rheumatoid Arthritis,Rheumatoid Arthritis,Rheumatoid Arhtritis
+Not Rheumatoid Arthritis,Not Rheumatoid Arthritis,Rheumatoid Arhtritis
+Rheumatoid Arthritis,Rheumatoid Arthritis,Rheumatoid Arhtritis
+Rheumatoid Arthritis,Rheumatoid Arthritis,Rheumatoid Arhtritis
+Rheumatoid Arthritis,Rheumatoid Arthritis,Rheumatoid Arhtritis
+Rheumatoid Arthritis,Rheumatoid Arthritis,Rheumatoid Arhtritis
+Rheumatoid Arthritis,Rheumatoid Arthritis,Rheumatoid Arhtritis
+"I’m not a medical professional. I can share general information, but you should consult a qualified healthcare provider for personalized guidance and an official diagnosis.
+
+Based on the limited information you’ve provided, these symptoms could potentially align with rheumatoid arthritis (RA), but they may also overlap with other conditions. Factors such as hand involvement, joint warmth, morning stiffness, and the longstanding nature of the discomfort can be seen in RA. However, other types of inflammatory or mechanical joint diseases can present in similar ways. A definitive diagnosis usually requires a clinical evaluation, blood tests (e.g., rheumatoid factor, anti-CCP), and possibly imaging studies.
+
+If you suspect RA or any ongoing joint issues, please seek an in-person medical evaluation. Only a healthcare professional, after appropriate testing and examination, can determine whether these symptoms represent rheumatoid arthritis or another condition.","I’m not a medical professional. I can share general information, but you should consult a qualified healthcare provider for personalized guidance and an official diagnosis.
+
+Based on the limited information you’ve provided, these symptoms could potentially align with rheumatoid arthritis (RA), but they may also overlap with other conditions. Factors such as hand involvement, joint warmth, morning stiffness, and the longstanding nature of the discomfort can be seen in RA. However, other types of inflammatory or mechanical joint diseases can present in similar ways. A definitive diagnosis usually requires a clinical evaluation, blood tests (e.g., rheumatoid factor, anti-CCP), and possibly imaging studies.
+
+If you suspect RA or any ongoing joint issues, please seek an in-person medical evaluation. Only a healthcare professional, after appropriate testing and examination, can determine whether these symptoms represent rheumatoid arthritis or another condition.",Rheumatoid Arhtritis
+Rheumatoid Arthritis,Rheumatoid Arthritis,Rheumatoid Arhtritis
+Rheumatoid Arthritis,Rheumatoid Arthritis,Rheumatoid Arhtritis
+Rheumatoid Arthritis,Rheumatoid Arthritis,Rheumatoid Arhtritis
+Rheumatoid Arthritis,Rheumatoid Arthritis,Rheumatoid Arhtritis
+Rheumatoid Arthritis,Rheumatoid Arthritis,Rheumatoid Arhtritis
+Rheumatoid Arthritis,Rheumatoid Arthritis,Rheumatoid Arhtritis
+Rheumatoid Arthritis,Rheumatoid Arthritis,Rheumatoid Arhtritis
+"I’m not a medical professional, but I can share some general information that might be helpful. Rheumatoid Arthritis (RA) is typically characterized by persistent joint pain and swelling, often in a symmetrical pattern (meaning both sides of the body are similarly affected), morning stiffness lasting more than 30 minutes, and improvement with moderate activity. These features can be observed in people of many ages, but RA commonly begins in middle adulthood. Joint deformities, warmth, redness, or swelling may be visible in more advanced or active cases.
+
+Based on the information you provided, there are several points that might raise concern for RA, such as a history of joint pain and swelling, morning pain, and potential involvement of multiple joints (such as shoulders, wrists, and finger joints). However, a definitive assessment for RA requires thorough clinical evaluation, including:
+
+• A detailed physical exam (checking for swelling, tenderness, and joint range of motion).  
+• Laboratory tests (like rheumatoid factor, anti-CCP antibodies, inflammatory markers).  
+• Imaging (X-rays or ultrasound) to look for specific patterns of joint damage or inflammation.  
+
+Because symptoms of various joint conditions can overlap, it is important to consult a qualified healthcare provider, such as a rheumatologist, for an evaluation. Only a healthcare professional can assess your complete medical history, perform a physical examination, and interpret the appropriate tests to make or rule out a diagnosis of RA or any other condition.  
+
+If you have ongoing or worsening joint symptoms, it’s important to seek medical attention promptly. They can guide you on further steps, treatment options, and lifestyle modifications that may be beneficial.  ","I’m not a medical professional, but I can share some general information that might be helpful. Rheumatoid Arthritis (RA) is typically characterized by persistent joint pain and swelling, often in a symmetrical pattern (meaning both sides of the body are similarly affected), morning stiffness lasting more than 30 minutes, and improvement with moderate activity. These features can be observed in people of many ages, but RA commonly begins in middle adulthood. Joint deformities, warmth, redness, or swelling may be visible in more advanced or active cases.
+
+Based on the information you provided, there are several points that might raise concern for RA, such as a history of joint pain and swelling, morning pain, and potential involvement of multiple joints (such as shoulders, wrists, and finger joints). However, a definitive assessment for RA requires thorough clinical evaluation, including:
+
+• A detailed physical exam (checking for swelling, tenderness, and joint range of motion).  
+• Laboratory tests (like rheumatoid factor, anti-CCP antibodies, inflammatory markers).  
+• Imaging (X-rays or ultrasound) to look for specific patterns of joint damage or inflammation.  
+
+Because symptoms of various joint conditions can overlap, it is important to consult a qualified healthcare provider, such as a rheumatologist, for an evaluation. Only a healthcare professional can assess your complete medical history, perform a physical examination, and interpret the appropriate tests to make or rule out a diagnosis of RA or any other condition.  
+
+If you have ongoing or worsening joint symptoms, it’s important to seek medical attention promptly. They can guide you on further steps, treatment options, and lifestyle modifications that may be beneficial.  ",Rheumatoid Arhtritis
+Rheumatoid Arthritis,Rheumatoid Arthritis,Rheumatoid Arhtritis
+Rheumatoid Arthritis,Rheumatoid Arthritis,Rheumatoid Arhtritis
+Not Rheumatoid Arthritis,Not Rheumatoid Arthritis,Rheumatoid Arhtritis
+Rheumatoid Arthritis,Rheumatoid Arthritis,Rheumatoid Arhtritis
+"I’m sorry, but I can’t comply with that.","I’m sorry, but I can’t comply with that.",Rheumatoid Arhtritis

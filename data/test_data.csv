@@ -1,0 +1,2521 @@
+Patient Prompt,Actual Diagnosis
+"Age: 44.0
+Gender: female
+Problems: joint pain
+Duration of Problem: 30.0 days
+Pain Location: no
+Pain Areas (Image 1): Right MCP (Metacarpal phalangeal joint), Right PIP (Proximal interphalangeal joint), Right MCP (Metacarpal phalangeal joint), Right PIP (Proximal interphalangeal joint)
+Pain Areas (Image 2): nan
+Joint Deformity: no
+Swelling Areas (Image 1): nan
+Swelling Areas (Image 2): nan
+Swelling Pattern: not applicable
+Redness in Swollen Joints: no
+Warm Joints: no
+Pain Time: morning
+Sleep Disturbance: yes
+Sleep Hours: 5.0
+Physical Activity Impact: increase
+Rest Impact: reduce
+Painkillers: yes
+Painkiller Response: good relief
+Fever: yes, less than 100°f
+Skin Rash: yes, hands / feet
+Rash in Sun: No
+Mouth Ulcers: yes
+Eye Grittiness: No
+Eye Drops: No
+Swallowing Difficulty: No
+Difficulty Waking Up: No
+Difficulty Sitting Up: No
+Psoriasis: No
+Healing Time: No
+Painful Eye: No
+Cough: No
+Previous History of Joint Pain, Swelling: Yes
+Medication History: No
+Current Medications: yes, diabetes",Not Rheumatoid Arhtritis
+"Age: 31.0
+Gender: female
+Problems: joint pain
+Duration of Problem: 180.0 days
+Pain Location: no
+Pain Areas (Image 1): Right ankle, Right midfoot, Right toes, Right ankle, Right midfoot, Right toes
+Pain Areas (Image 2): nan
+Joint Deformity: no
+Swelling Areas (Image 1): nan
+Swelling Areas (Image 2): nan
+Swelling Pattern: not applicable
+Redness in Swollen Joints: no
+Warm Joints: no
+Pain Time: all the time
+Sleep Disturbance: no
+Sleep Hours: 7.0
+Physical Activity Impact: increase
+Rest Impact: reduce
+Painkillers: no
+Painkiller Response: not applicable
+Fever: yes, less than 100°f
+Skin Rash: yes, face
+Rash in Sun: No
+Mouth Ulcers: No
+Eye Grittiness: itching
+Eye Drops: No
+Swallowing Difficulty: No
+Difficulty Waking Up: yes
+Difficulty Sitting Up: No
+Psoriasis: No
+Healing Time: No
+Painful Eye: No
+Cough: No
+Previous History of Joint Pain, Swelling: Yes
+Medication History: No
+Current Medications: No",Not Rheumatoid Arhtritis
+"Age: 44.0
+Gender: female
+Problems: joint pain
+Duration of Problem: 365.0 days
+Pain Location: no
+Pain Areas (Image 1): Right knee, Right ankle, Right midfoot, Right knee, Right ankle, Right midfoot
+Pain Areas (Image 2): nan
+Joint Deformity: no
+Swelling Areas (Image 1): nan
+Swelling Areas (Image 2): nan
+Swelling Pattern: not applicable
+Redness in Swollen Joints: not applicable
+Warm Joints: no
+Pain Time: all the time
+Sleep Disturbance: no
+Sleep Hours: 8.0
+Physical Activity Impact: increase
+Rest Impact: reduce
+Painkillers: yes
+Painkiller Response: good relief
+Fever: yes, less than 100°f
+Skin Rash: yes, face
+Rash in Sun: No
+Mouth Ulcers: No
+Eye Grittiness: No
+Eye Drops: No
+Swallowing Difficulty: No
+Difficulty Waking Up: yes
+Difficulty Sitting Up: No
+Psoriasis: No
+Healing Time: No
+Painful Eye: No
+Cough: No
+Previous History of Joint Pain, Swelling: Yes
+Medication History: No
+Current Medications: yes, thyroid problem",Not Rheumatoid Arhtritis
+"Age: 50.0
+Gender: female
+Problems: joint pain, joint swelling
+Duration of Problem: 1095.0 days
+Pain Location: yes, lower backache
+Pain Areas (Image 1): Right shoulder, Right wrist, Right MCP (Metacarpal phalangeal joint), Right PIP (Proximal interphalangeal joint), Right knee, Right ankle, Right midfoot, Left shoulder, Left writst, Right MCP (Metacarpal phalangeal joint), Right PIP (Proximal interphalangeal joint), Right knee, Right ankle, Right midfoot
+Pain Areas (Image 2): nan
+Joint Deformity: no
+Swelling Areas (Image 1): Right wrist, Right MCP (Metacarpal phalangeal joint), Right PIP (Proximal interphalangeal joint), Right knee, Left writst, Right MCP (Metacarpal phalangeal joint), Right PIP (Proximal interphalangeal joint), Right knee
+Swelling Areas (Image 2): nan
+Swelling Pattern: comes and goes (episodic)
+Redness in Swollen Joints: no
+Warm Joints: yes
+Pain Time: morning
+Sleep Disturbance: yes
+Sleep Hours: 5.0
+Physical Activity Impact: increase
+Rest Impact: increase
+Painkillers: yes
+Painkiller Response: good relief
+Fever: yes, less than 100°f
+Skin Rash: No
+Rash in Sun: No
+Mouth Ulcers: No
+Eye Grittiness: No
+Eye Drops: No
+Swallowing Difficulty: No
+Difficulty Waking Up: yes
+Difficulty Sitting Up: yes
+Psoriasis: No
+Healing Time: No
+Painful Eye: No
+Cough: No
+Previous History of Joint Pain, Swelling: Yes
+Medication History: No
+Current Medications: No",Not Rheumatoid Arhtritis
+"Age: 43.0
+Gender: female
+Problems: joint pain, joint swelling, morning stiffness
+Duration of Problem: 180.0 days
+Pain Location: no
+Pain Areas (Image 1): Right forearm, Right wrist, Right MCP (Metacarpal phalangeal joint), Right knee, Right ankle, Right midfoot, Left forearm, Left writst, Right MCP (Metacarpal phalangeal joint), Right ankle, Right midfoot, Right toes
+Pain Areas (Image 2): nan
+Joint Deformity: no
+Swelling Areas (Image 1): Right wrist, Right MCP (Metacarpal phalangeal joint), Left writst, Right MCP (Metacarpal phalangeal joint)
+Swelling Areas (Image 2): nan
+Swelling Pattern: comes and goes (episodic)
+Redness in Swollen Joints: yes
+Warm Joints: yes
+Pain Time: morning
+Sleep Disturbance: yes
+Sleep Hours: 6.0
+Physical Activity Impact: reduce
+Rest Impact: increase
+Painkillers: yes
+Painkiller Response: mild relief
+Fever: No
+Skin Rash: No
+Rash in Sun: No
+Mouth Ulcers: No
+Eye Grittiness: No
+Eye Drops: No
+Swallowing Difficulty: No
+Difficulty Waking Up: No
+Difficulty Sitting Up: No
+Psoriasis: No
+Healing Time: No
+Painful Eye: No
+Cough: No
+Previous History of Joint Pain, Swelling: No
+Medication History: No
+Current Medications: No",Not Rheumatoid Arhtritis
+"Age: 41.0
+Gender: female
+Problems: inability to move hand / feet
+Duration of Problem: 3285.0 days
+Pain Location: no
+Pain Areas (Image 1): Right MCP (Metacarpal phalangeal joint)
+Pain Areas (Image 2): nan
+Joint Deformity: yes, left hand, yes, right hand, yes, left foot, yes, right foot
+Swelling Areas (Image 1): nan
+Swelling Areas (Image 2): nan
+Swelling Pattern: comes and goes (episodic)
+Redness in Swollen Joints: not applicable
+Warm Joints: no
+Pain Time: all the time
+Sleep Disturbance: yes
+Sleep Hours: 4.0
+Physical Activity Impact: reduce
+Rest Impact: increase
+Painkillers: no
+Painkiller Response: not applicable
+Fever: yes, 100-102°f
+Skin Rash: No
+Rash in Sun: No
+Mouth Ulcers: No
+Eye Grittiness: No
+Eye Drops: No
+Swallowing Difficulty: No
+Difficulty Waking Up: yes
+Difficulty Sitting Up: yes
+Psoriasis: No
+Healing Time: yes
+Painful Eye: No
+Cough: yes
+Previous History of Joint Pain, Swelling: No
+Medication History: yes, but they did not help
+Current Medications: yes, diabetes",Not Rheumatoid Arhtritis
+"Age: 70.0
+Gender: female
+Problems: joint pain, joint swelling
+Duration of Problem: 1825.0 days
+Pain Location: yes, lower backache
+Pain Areas (Image 1): Right thigh, Left forearm
+Pain Areas (Image 2): nan
+Joint Deformity: no
+Swelling Areas (Image 1): Right knee, Right knee
+Swelling Areas (Image 2): nan
+Swelling Pattern: comes and goes (episodic)
+Redness in Swollen Joints: no
+Warm Joints: no
+Pain Time: morning
+Sleep Disturbance: no
+Sleep Hours: 7.0
+Physical Activity Impact: increase
+Rest Impact: increase
+Painkillers: yes
+Painkiller Response: moderate relief
+Fever: yes, less than 100°f
+Skin Rash: No
+Rash in Sun: No
+Mouth Ulcers: No
+Eye Grittiness: itching
+Eye Drops: No
+Swallowing Difficulty: No
+Difficulty Waking Up: yes
+Difficulty Sitting Up: yes
+Psoriasis: No
+Healing Time: No
+Painful Eye: No
+Cough: No
+Previous History of Joint Pain, Swelling: Yes
+Medication History: No
+Current Medications: yes, diabetes, yes, hypertension",Not Rheumatoid Arhtritis
+"Age: 56.0
+Gender: male
+Problems: joint pain, joint swelling
+Duration of Problem: 240.0 days
+Pain Location: no
+Pain Areas (Image 1): Right wrist, Right MCP (Metacarpal phalangeal joint), Right PIP (Proximal interphalangeal joint), Right knee, Left writst, Right MCP (Metacarpal phalangeal joint), Right PIP (Proximal interphalangeal joint), Right knee
+Pain Areas (Image 2): nan
+Joint Deformity: no
+Swelling Areas (Image 1): Right wrist, Right MCP (Metacarpal phalangeal joint), Right PIP (Proximal interphalangeal joint), Left writst, Right MCP (Metacarpal phalangeal joint), Right PIP (Proximal interphalangeal joint)
+Swelling Areas (Image 2): nan
+Swelling Pattern: comes and goes (episodic)
+Redness in Swollen Joints: no
+Warm Joints: no
+Pain Time: morning
+Sleep Disturbance: no
+Sleep Hours: 8.0
+Physical Activity Impact: increase
+Rest Impact: increase
+Painkillers: yes
+Painkiller Response: good relief
+Fever: yes, less than 100°f
+Skin Rash: No
+Rash in Sun: No
+Mouth Ulcers: No
+Eye Grittiness: itching
+Eye Drops: No
+Swallowing Difficulty: No
+Difficulty Waking Up: yes
+Difficulty Sitting Up: No
+Psoriasis: No
+Healing Time: No
+Painful Eye: No
+Cough: No
+Previous History of Joint Pain, Swelling: Yes
+Medication History: No
+Current Medications: No",Not Rheumatoid Arhtritis
+"Age: 50.0
+Gender: male
+Problems: joint pain, joint swelling, inability to move hand / feet, morning stiffness
+Duration of Problem: 60.0 days
+Pain Location: no
+Pain Areas (Image 1): Right wrist, Right MCP (Metacarpal phalangeal joint), Right ankle, Right midfoot, Left writst, Right MCP (Metacarpal phalangeal joint), Right ankle, Right midfoot
+Pain Areas (Image 2): nan
+Joint Deformity: no
+Swelling Areas (Image 1): Right MCP (Metacarpal phalangeal joint)
+Swelling Areas (Image 2): nan
+Swelling Pattern: comes and goes (episodic)
+Redness in Swollen Joints: yes
+Warm Joints: yes
+Pain Time: morning
+Sleep Disturbance: yes
+Sleep Hours: 4.0
+Physical Activity Impact: reduce
+Rest Impact: increase
+Painkillers: yes
+Painkiller Response: mild relief
+Fever: yes, less than 100°f
+Skin Rash: No
+Rash in Sun: No
+Mouth Ulcers: No
+Eye Grittiness: No
+Eye Drops: No
+Swallowing Difficulty: No
+Difficulty Waking Up: No
+Difficulty Sitting Up: No
+Psoriasis: No
+Healing Time: No
+Painful Eye: No
+Cough: No
+Previous History of Joint Pain, Swelling: No
+Medication History: No
+Current Medications: No",Not Rheumatoid Arhtritis
+"Age: 33.0
+Gender: female
+Problems: joint pain
+Duration of Problem: 90.0 days
+Pain Location: yes, upper backache
+Pain Areas (Image 1): Right MCP (Metacarpal phalangeal joint), Right PIP (Proximal interphalangeal joint), Right MCP (Metacarpal phalangeal joint), Right PIP (Proximal interphalangeal joint)
+Pain Areas (Image 2): Middle back, Lower midback
+Joint Deformity: no
+Swelling Areas (Image 1): nan
+Swelling Areas (Image 2): nan
+Swelling Pattern: comes and goes (episodic)
+Redness in Swollen Joints: no
+Warm Joints: no
+Pain Time: morning
+Sleep Disturbance: yes
+Sleep Hours: 6.0
+Physical Activity Impact: increase
+Rest Impact: increase
+Painkillers: no
+Painkiller Response: not applicable
+Fever: yes, less than 100°f
+Skin Rash: yes, hands / feet
+Rash in Sun: No
+Mouth Ulcers: No
+Eye Grittiness: itching
+Eye Drops: No
+Swallowing Difficulty: No
+Difficulty Waking Up: No
+Difficulty Sitting Up: No
+Psoriasis: No
+Healing Time: No
+Painful Eye: No
+Cough: No
+Previous History of Joint Pain, Swelling: Yes
+Medication History: yes, they helped
+Current Medications: No",Not Rheumatoid Arhtritis
+"Age: 50.0
+Gender: female
+Problems: joint pain, joint swelling
+Duration of Problem: 730.0 days
+Pain Location: no
+Pain Areas (Image 1): Right knee, Right knee
+Pain Areas (Image 2): nan
+Joint Deformity: no
+Swelling Areas (Image 1): Right knee, Right knee
+Swelling Areas (Image 2): nan
+Swelling Pattern: comes and goes (episodic)
+Redness in Swollen Joints: no
+Warm Joints: no
+Pain Time: morning
+Sleep Disturbance: no
+Sleep Hours: 7.0
+Physical Activity Impact: increase
+Rest Impact: reduce
+Painkillers: yes
+Painkiller Response: good relief
+Fever: yes, less than 100°f
+Skin Rash: No
+Rash in Sun: No
+Mouth Ulcers: No
+Eye Grittiness: No
+Eye Drops: No
+Swallowing Difficulty: No
+Difficulty Waking Up: yes
+Difficulty Sitting Up: No
+Psoriasis: No
+Healing Time: No
+Painful Eye: No
+Cough: No
+Previous History of Joint Pain, Swelling: Yes
+Medication History: No
+Current Medications: yes, diabetes",Not Rheumatoid Arhtritis
+"Age: 48.0
+Gender: female
+Problems: joint pain, joint swelling
+Duration of Problem: 365.0 days
+Pain Location: no
+Pain Areas (Image 1): Right wrist, Right MCP (Metacarpal phalangeal joint), Right PIP (Proximal interphalangeal joint), Right knee, Left writst, Right MCP (Metacarpal phalangeal joint), Right PIP (Proximal interphalangeal joint), Right knee, Right ankle, Right midfoot
+Pain Areas (Image 2): nan
+Joint Deformity: no
+Swelling Areas (Image 1): Right knee, Right knee, Right ankle, Right midfoot
+Swelling Areas (Image 2): nan
+Swelling Pattern: comes and goes (episodic)
+Redness in Swollen Joints: no
+Warm Joints: yes
+Pain Time: morning
+Sleep Disturbance: no
+Sleep Hours: 8.0
+Physical Activity Impact: reduce
+Rest Impact: increase
+Painkillers: yes
+Painkiller Response: good relief
+Fever: yes, less than 100°f
+Skin Rash: No
+Rash in Sun: No
+Mouth Ulcers: No
+Eye Grittiness: No
+Eye Drops: No
+Swallowing Difficulty: No
+Difficulty Waking Up: yes
+Difficulty Sitting Up: No
+Psoriasis: No
+Healing Time: No
+Painful Eye: No
+Cough: No
+Previous History of Joint Pain, Swelling: Yes
+Medication History: No
+Current Medications: No",Not Rheumatoid Arhtritis
+"Age: 69.0
+Gender: male
+Problems: joint pain, joint swelling
+Duration of Problem: 730.0 days
+Pain Location: no
+Pain Areas (Image 1): Right MCP (Metacarpal phalangeal joint), Right PIP (Proximal interphalangeal joint), Right ankle, Right midfoot, Right toes, Right MCP (Metacarpal phalangeal joint), Right PIP (Proximal interphalangeal joint), Right thigh, Right ankle, Right midfoot
+Pain Areas (Image 2): nan
+Joint Deformity: no
+Swelling Areas (Image 1): Right wrist, Right MCP (Metacarpal phalangeal joint), Right PIP (Proximal interphalangeal joint), Right knee, Left writst, Right MCP (Metacarpal phalangeal joint), Right PIP (Proximal interphalangeal joint), Right knee
+Swelling Areas (Image 2): nan
+Swelling Pattern: comes and goes (episodic)
+Redness in Swollen Joints: yes
+Warm Joints: no
+Pain Time: evening
+Sleep Disturbance: yes
+Sleep Hours: 5.0
+Physical Activity Impact: increase
+Rest Impact: increase
+Painkillers: yes
+Painkiller Response: moderate relief
+Fever: yes, less than 100°f
+Skin Rash: yes, hands / feet
+Rash in Sun: No
+Mouth Ulcers: No
+Eye Grittiness: No
+Eye Drops: No
+Swallowing Difficulty: No
+Difficulty Waking Up: yes
+Difficulty Sitting Up: yes
+Psoriasis: No
+Healing Time: No
+Painful Eye: No
+Cough: No
+Previous History of Joint Pain, Swelling: Yes
+Medication History: yes, they helped
+Current Medications: No",Rheumatoid Arhtritis
+"Age: 71.0
+Gender: female
+Problems: joint pain, joint swelling
+Duration of Problem: 2920.0 days
+Pain Location: yes, lower backache
+Pain Areas (Image 1): Right forearm, Right wrist, Right MCP (Metacarpal phalangeal joint), Right knee, Right ankle, Left forearm, Left writst, Right MCP (Metacarpal phalangeal joint), Right knee, Right ankle
+Pain Areas (Image 2): Lower back (left PSIS), Right PSIS
+Joint Deformity: no
+Swelling Areas (Image 1): Right wrist, Right ankle, Left writst, Right ankle
+Swelling Areas (Image 2): nan
+Swelling Pattern: comes and goes (episodic)
+Redness in Swollen Joints: yes
+Warm Joints: yes
+Pain Time: morning
+Sleep Disturbance: yes
+Sleep Hours: 6.0
+Physical Activity Impact: reduce
+Rest Impact: increase
+Painkillers: yes
+Painkiller Response: moderate relief
+Fever: yes, 100-102°f
+Skin Rash: No
+Rash in Sun: No
+Mouth Ulcers: No
+Eye Grittiness: No
+Eye Drops: No
+Swallowing Difficulty: No
+Difficulty Waking Up: yes
+Difficulty Sitting Up: yes
+Psoriasis: No
+Healing Time: No
+Painful Eye: No
+Cough: No
+Previous History of Joint Pain, Swelling: Yes
+Medication History: yes, they helped
+Current Medications: yes, diabetes, yes, thyroid problem",Rheumatoid Arhtritis
+"Age: 42.0
+Gender: female
+Problems: joint pain, joint swelling, inability to move hand / feet, morning stiffness
+Duration of Problem: 730.0 days
+Pain Location: yes, lower backache
+Pain Areas (Image 1): Right wrist, Right MCP (Metacarpal phalangeal joint), Right knee, Left writst, Right MCP (Metacarpal phalangeal joint), Right knee
+Pain Areas (Image 2): Lower back (left PSIS), Right PSIS
+Joint Deformity: yes, right hand
+Swelling Areas (Image 1): Right wrist, Left writst
+Swelling Areas (Image 2): nan
+Swelling Pattern: comes and goes (episodic)
+Redness in Swollen Joints: yes
+Warm Joints: yes
+Pain Time: morning
+Sleep Disturbance: no
+Sleep Hours: 6.0
+Physical Activity Impact: reduce
+Rest Impact: reduce
+Painkillers: yes
+Painkiller Response: moderate relief
+Fever: yes, 100-102°f
+Skin Rash: yes, hands / feet
+Rash in Sun: No
+Mouth Ulcers: No
+Eye Grittiness: No
+Eye Drops: No
+Swallowing Difficulty: No
+Difficulty Waking Up: yes
+Difficulty Sitting Up: yes
+Psoriasis: No
+Healing Time: No
+Painful Eye: No
+Cough: No
+Previous History of Joint Pain, Swelling: Yes
+Medication History: yes, but they did not help
+Current Medications: yes, diabetes, yes, hypertension",Rheumatoid Arhtritis
+"Age: 60.0
+Gender: female
+Problems: joint pain, joint swelling
+Duration of Problem: 730.0 days
+Pain Location: yes, lower backache
+Pain Areas (Image 1): Right shoulder, Right knee, Right ankle, Right midfoot, Right toes, Left shoulder, Right knee, Right ankle, Right midfoot, Right toes
+Pain Areas (Image 2): Lower back (left PSIS), Right PSIS
+Joint Deformity: yes, left hand, yes, right hand, yes, left foot, yes, right foot
+Swelling Areas (Image 1): Right knee, Right knee
+Swelling Areas (Image 2): nan
+Swelling Pattern: comes and goes (episodic)
+Redness in Swollen Joints: no
+Warm Joints: no
+Pain Time: all the time
+Sleep Disturbance: yes
+Sleep Hours: 5.0
+Physical Activity Impact: increase
+Rest Impact: increase
+Painkillers: yes
+Painkiller Response: moderate relief
+Fever: yes, 100-102°f
+Skin Rash: No
+Rash in Sun: No
+Mouth Ulcers: No
+Eye Grittiness: No
+Eye Drops: yes
+Swallowing Difficulty: No
+Difficulty Waking Up: yes
+Difficulty Sitting Up: yes
+Psoriasis: No
+Healing Time: No
+Painful Eye: yes
+Cough: No
+Previous History of Joint Pain, Swelling: Yes
+Medication History: yes, they helped
+Current Medications: No",Rheumatoid Arhtritis
+"Age: 40.0
+Gender: female
+Problems: joint pain, joint swelling
+Duration of Problem: 1825.0 days
+Pain Location: no
+Pain Areas (Image 1): Right wrist, Right MCP (Metacarpal phalangeal joint), Right PIP (Proximal interphalangeal joint), Right ankle, Right midfoot, Right toes, Left shoulder, Left writst, Right MCP (Metacarpal phalangeal joint), Right PIP (Proximal interphalangeal joint), Right ankle, Right midfoot, Right toes
+Pain Areas (Image 2): nan
+Joint Deformity: no
+Swelling Areas (Image 1): Right wrist, Right MCP (Metacarpal phalangeal joint), Right PIP (Proximal interphalangeal joint), Right ankle, Right midfoot, Left writst, Right MCP (Metacarpal phalangeal joint), Right PIP (Proximal interphalangeal joint), Right ankle, Right midfoot
+Swelling Areas (Image 2): nan
+Swelling Pattern: not applicable
+Redness in Swollen Joints: no
+Warm Joints: no
+Pain Time: morning
+Sleep Disturbance: yes
+Sleep Hours: 5.0
+Physical Activity Impact: reduce
+Rest Impact: increase
+Painkillers: yes
+Painkiller Response: good relief
+Fever: yes, less than 100°f
+Skin Rash: yes, hands / feet
+Rash in Sun: No
+Mouth Ulcers: No
+Eye Grittiness: No
+Eye Drops: No
+Swallowing Difficulty: No
+Difficulty Waking Up: yes
+Difficulty Sitting Up: No
+Psoriasis: No
+Healing Time: No
+Painful Eye: No
+Cough: yes
+Previous History of Joint Pain, Swelling: Yes
+Medication History: No
+Current Medications: No",Rheumatoid Arhtritis
+"Age: 57.0
+Gender: female
+Problems: joint pain, joint swelling
+Duration of Problem: 1095.0 days
+Pain Location: no
+Pain Areas (Image 1): Right shoulder, Right wrist, Right MCP (Metacarpal phalangeal joint), Right PIP (Proximal interphalangeal joint), Right knee, Left shoulder, Left writst, Right MCP (Metacarpal phalangeal joint), Right PIP (Proximal interphalangeal joint), Right knee
+Pain Areas (Image 2): nan
+Joint Deformity: no
+Swelling Areas (Image 1): nan
+Swelling Areas (Image 2): nan
+Swelling Pattern: not applicable
+Redness in Swollen Joints: not applicable
+Warm Joints: no
+Pain Time: nan
+Sleep Disturbance: no
+Sleep Hours: 6.0
+Physical Activity Impact: increase
+Rest Impact: nan
+Painkillers: no
+Painkiller Response: not applicable
+Fever: No
+Skin Rash: No
+Rash in Sun: No
+Mouth Ulcers: No
+Eye Grittiness: No
+Eye Drops: No
+Swallowing Difficulty: No
+Difficulty Waking Up: yes
+Difficulty Sitting Up: yes
+Psoriasis: No
+Healing Time: No
+Painful Eye: No
+Cough: No
+Previous History of Joint Pain, Swelling: Yes
+Medication History: yes, they helped
+Current Medications: No",Rheumatoid Arhtritis
+"Age: 67.0
+Gender: female
+Problems: joint pain, joint swelling
+Duration of Problem: 365.0 days
+Pain Location: no
+Pain Areas (Image 1): Right knee, Right ankle, Right midfoot, Right knee, Right ankle, Right midfoot
+Pain Areas (Image 2): nan
+Joint Deformity: no
+Swelling Areas (Image 1): Right wrist, Right MCP (Metacarpal phalangeal joint), Right knee, Left writst, Right MCP (Metacarpal phalangeal joint), Right knee
+Swelling Areas (Image 2): nan
+Swelling Pattern: constant (persistent)
+Redness in Swollen Joints: no
+Warm Joints: no
+Pain Time: all the time
+Sleep Disturbance: no
+Sleep Hours: 7.0
+Physical Activity Impact: increase
+Rest Impact: increase
+Painkillers: yes
+Painkiller Response: moderate relief
+Fever: yes, less than 100°f
+Skin Rash: No
+Rash in Sun: No
+Mouth Ulcers: No
+Eye Grittiness: No
+Eye Drops: No
+Swallowing Difficulty: No
+Difficulty Waking Up: yes
+Difficulty Sitting Up: yes
+Psoriasis: No
+Healing Time: No
+Painful Eye: No
+Cough: yes
+Previous History of Joint Pain, Swelling: Yes
+Medication History: yes, they helped
+Current Medications: no, yes, hypertension",Rheumatoid Arhtritis
+"Age: 57.0
+Gender: female
+Problems: joint pain, joint swelling
+Duration of Problem: 730.0 days
+Pain Location: no
+Pain Areas (Image 1): Right shoulder, Right upper arm, Right forearm, Right wrist, Right MCP (Metacarpal phalangeal joint), Right PIP (Proximal interphalangeal joint), Right knee, Right ankle, Right midfoot, Left shoulder, Left writst, Right MCP (Metacarpal phalangeal joint), Right PIP (Proximal interphalangeal joint), Right knee, Right ankle, Right midfoot
+Pain Areas (Image 2): nan
+Joint Deformity: yes, right hand
+Swelling Areas (Image 1): Right wrist, Right MCP (Metacarpal phalangeal joint), Right PIP (Proximal interphalangeal joint), Right knee, Right ankle, Right midfoot, Right toes, Right knee, Right ankle, Right midfoot
+Swelling Areas (Image 2): nan
+Swelling Pattern: not applicable
+Redness in Swollen Joints: no
+Warm Joints: no
+Pain Time: morning
+Sleep Disturbance: yes
+Sleep Hours: 5.0
+Physical Activity Impact: reduce
+Rest Impact: increase
+Painkillers: yes
+Painkiller Response: good relief
+Fever: yes, less than 100°f
+Skin Rash: yes, hands / feet
+Rash in Sun: No
+Mouth Ulcers: No
+Eye Grittiness: itching
+Eye Drops: No
+Swallowing Difficulty: No
+Difficulty Waking Up: yes
+Difficulty Sitting Up: yes
+Psoriasis: No
+Healing Time: No
+Painful Eye: No
+Cough: No
+Previous History of Joint Pain, Swelling: Yes
+Medication History: yes, they helped
+Current Medications: yes, hypertension",Rheumatoid Arhtritis
+"Age: 73.0
+Gender: female
+Problems: joint pain, joint swelling
+Duration of Problem: 3285.0 days
+Pain Location: yes, lower backache
+Pain Areas (Image 1): Right shoulder, Right wrist, Right MCP (Metacarpal phalangeal joint), Right knee, Left shoulder, Left writst, Right MCP (Metacarpal phalangeal joint), Right knee
+Pain Areas (Image 2): Lower back (left PSIS), Right PSIS
+Joint Deformity: no
+Swelling Areas (Image 1): Right shoulder, Right wrist, Right MCP (Metacarpal phalangeal joint), Right PIP (Proximal interphalangeal joint), Right knee, Right ankle, Right midfoot, Left writst, Right MCP (Metacarpal phalangeal joint), Right PIP (Proximal interphalangeal joint), Right knee, Right ankle, Right midfoot
+Swelling Areas (Image 2): nan
+Swelling Pattern: constant (persistent)
+Redness in Swollen Joints: no
+Warm Joints: no
+Pain Time: morning
+Sleep Disturbance: yes
+Sleep Hours: 5.0
+Physical Activity Impact: increase
+Rest Impact: increase
+Painkillers: yes
+Painkiller Response: moderate relief
+Fever: yes, less than 100°f
+Skin Rash: No
+Rash in Sun: No
+Mouth Ulcers: yes
+Eye Grittiness: itching
+Eye Drops: No
+Swallowing Difficulty: No
+Difficulty Waking Up: yes
+Difficulty Sitting Up: yes
+Psoriasis: No
+Healing Time: No
+Painful Eye: No
+Cough: yes
+Previous History of Joint Pain, Swelling: Yes
+Medication History: yes, but they did not help
+Current Medications: yes, hypertension",Rheumatoid Arhtritis
+"Age: 49.0
+Gender: female
+Problems: joint pain
+Duration of Problem: 1825.0 days
+Pain Location: no
+Pain Areas (Image 1): Right knee, Right knee
+Pain Areas (Image 2): nan
+Joint Deformity: no
+Swelling Areas (Image 1): nan
+Swelling Areas (Image 2): nan
+Swelling Pattern: not applicable
+Redness in Swollen Joints: no
+Warm Joints: no
+Pain Time: morning
+Sleep Disturbance: no
+Sleep Hours: 6.0
+Physical Activity Impact: increase
+Rest Impact: reduce
+Painkillers: yes
+Painkiller Response: good relief
+Fever: yes, less than 100°f
+Skin Rash: No
+Rash in Sun: No
+Mouth Ulcers: No
+Eye Grittiness: No
+Eye Drops: No
+Swallowing Difficulty: No
+Difficulty Waking Up: yes
+Difficulty Sitting Up: yes
+Psoriasis: No
+Healing Time: No
+Painful Eye: No
+Cough: No
+Previous History of Joint Pain, Swelling: Yes
+Medication History: No
+Current Medications: yes, diabetes",Rheumatoid Arhtritis
+"Age: 39.0
+Gender: female
+Problems: joint pain, joint swelling
+Duration of Problem: 730.0 days
+Pain Location: no
+Pain Areas (Image 1): Right shoulder, Right wrist, Right MCP (Metacarpal phalangeal joint), Right PIP (Proximal interphalangeal joint), Right knee, Right ankle, Right midfoot, Right toes, Left shoulder, Left writst, Right MCP (Metacarpal phalangeal joint), Right PIP (Proximal interphalangeal joint), Right knee, Right ankle, Right midfoot
+Pain Areas (Image 2): Lower back (left PSIS), Right PSIS
+Joint Deformity: no
+Swelling Areas (Image 1): Right knee, Right knee
+Swelling Areas (Image 2): nan
+Swelling Pattern: comes and goes (episodic)
+Redness in Swollen Joints: no
+Warm Joints: yes
+Pain Time: morning
+Sleep Disturbance: nan
+Sleep Hours: 5.0
+Physical Activity Impact: reduce
+Rest Impact: increase
+Painkillers: yes
+Painkiller Response: good relief
+Fever: yes, less than 100°f
+Skin Rash: yes, face
+Rash in Sun: No
+Mouth Ulcers: yes
+Eye Grittiness: itching
+Eye Drops: yes
+Swallowing Difficulty: No
+Difficulty Waking Up: yes
+Difficulty Sitting Up: No
+Psoriasis: No
+Healing Time: No
+Painful Eye: No
+Cough: No
+Previous History of Joint Pain, Swelling: Yes
+Medication History: yes, they helped
+Current Medications: No",Rheumatoid Arhtritis
+"Age: 33.0
+Gender: female
+Problems: joint pain, joint swelling
+Duration of Problem: 1825.0 days
+Pain Location: yes, lower backache
+Pain Areas (Image 1): Right wrist, Right MCP (Metacarpal phalangeal joint), Right knee, Right ankle, Right midfoot, Right toes, Left shoulder, Left writst, Right MCP (Metacarpal phalangeal joint), Right PIP (Proximal interphalangeal joint), Right knee, Right ankle, Right midfoot
+Pain Areas (Image 2): nan
+Joint Deformity: no, yes, right hand, yes, left ankle, yes, right ankle
+Swelling Areas (Image 1): Right knee, Right knee
+Swelling Areas (Image 2): nan
+Swelling Pattern: comes and goes (episodic)
+Redness in Swollen Joints: yes
+Warm Joints: yes
+Pain Time: morning
+Sleep Disturbance: no
+Sleep Hours: 8.0
+Physical Activity Impact: increase
+Rest Impact: increase
+Painkillers: yes
+Painkiller Response: good relief
+Fever: yes, less than 100°f
+Skin Rash: No
+Rash in Sun: No
+Mouth Ulcers: No
+Eye Grittiness: itching
+Eye Drops: yes
+Swallowing Difficulty: No
+Difficulty Waking Up: yes
+Difficulty Sitting Up: yes
+Psoriasis: No
+Healing Time: No
+Painful Eye: No
+Cough: No
+Previous History of Joint Pain, Swelling: Yes
+Medication History: yes, they helped
+Current Medications: No",Rheumatoid Arhtritis
+"Age: 37.0
+Gender: female
+Problems: joint pain, joint swelling
+Duration of Problem: 3285.0 days
+Pain Location: yes, lower backache
+Pain Areas (Image 1): Right shoulder, Right wrist, Right MCP (Metacarpal phalangeal joint), Right PIP (Proximal interphalangeal joint), Right knee, Right midfoot, Right toes, Left TMJ joint, Left writst, Right MCP (Metacarpal phalangeal joint), Right PIP (Proximal interphalangeal joint), Right ankle, Right midfoot, Right toes
+Pain Areas (Image 2): nan
+Joint Deformity: no
+Swelling Areas (Image 1): Right MCP (Metacarpal phalangeal joint), Right PIP (Proximal interphalangeal joint), Right ankle, Right midfoot
+Swelling Areas (Image 2): nan
+Swelling Pattern: comes and goes (episodic)
+Redness in Swollen Joints: no
+Warm Joints: no
+Pain Time: all the time
+Sleep Disturbance: yes
+Sleep Hours: 6.0
+Physical Activity Impact: increase
+Rest Impact: increase
+Painkillers: yes
+Painkiller Response: mild relief
+Fever: yes, less than 100°f
+Skin Rash: No
+Rash in Sun: No
+Mouth Ulcers: No
+Eye Grittiness: No
+Eye Drops: No
+Swallowing Difficulty: No
+Difficulty Waking Up: yes
+Difficulty Sitting Up: yes
+Psoriasis: No
+Healing Time: No
+Painful Eye: No
+Cough: No
+Previous History of Joint Pain, Swelling: Yes
+Medication History: yes, they helped
+Current Medications: yes, thyroid problem",Rheumatoid Arhtritis
+"Age: 38.0
+Gender: female
+Problems: joint pain, joint swelling
+Duration of Problem: 0.0 days
+Pain Location: no
+Pain Areas (Image 1): Right wrist, Right MCP (Metacarpal phalangeal joint), Right ankle, Right midfoot, Right toes, Right MCP (Metacarpal phalangeal joint), Right PIP (Proximal interphalangeal joint), Right ankle, Right midfoot, Right toes
+Pain Areas (Image 2): nan
+Joint Deformity: no
+Swelling Areas (Image 1): Right MCP (Metacarpal phalangeal joint), Right PIP (Proximal interphalangeal joint), Left writst, Right ankle, Right midfoot
+Swelling Areas (Image 2): nan
+Swelling Pattern: comes and goes (episodic)
+Redness in Swollen Joints: no
+Warm Joints: no
+Pain Time: morning
+Sleep Disturbance: no
+Sleep Hours: 7.0
+Physical Activity Impact: increase
+Rest Impact: reduce
+Painkillers: yes
+Painkiller Response: good relief
+Fever: yes, less than 100°f
+Skin Rash: No
+Rash in Sun: No
+Mouth Ulcers: No
+Eye Grittiness: No
+Eye Drops: No
+Swallowing Difficulty: No
+Difficulty Waking Up: yes
+Difficulty Sitting Up: No
+Psoriasis: No
+Healing Time: No
+Painful Eye: No
+Cough: No
+Previous History of Joint Pain, Swelling: Yes
+Medication History: yes, they helped
+Current Medications: No",Rheumatoid Arhtritis
+"Age: 49.0
+Gender: female
+Problems: joint pain
+Duration of Problem: 3285.0 days
+Pain Location: no
+Pain Areas (Image 1): Right MCP (Metacarpal phalangeal joint), Right PIP (Proximal interphalangeal joint), Right thigh, Right knee, Right MCP (Metacarpal phalangeal joint), Right PIP (Proximal interphalangeal joint), Right knee
+Pain Areas (Image 2): nan
+Joint Deformity: yes, right hand
+Swelling Areas (Image 1): Right wrist, Right MCP (Metacarpal phalangeal joint), Right PIP (Proximal interphalangeal joint), Right PIP (Proximal interphalangeal joint)
+Swelling Areas (Image 2): nan
+Swelling Pattern: comes and goes (episodic)
+Redness in Swollen Joints: no
+Warm Joints: yes
+Pain Time: morning
+Sleep Disturbance: no
+Sleep Hours: 6.0
+Physical Activity Impact: increase
+Rest Impact: increase
+Painkillers: yes
+Painkiller Response: good relief
+Fever: yes, less than 100°f
+Skin Rash: yes, face
+Rash in Sun: No
+Mouth Ulcers: yes
+Eye Grittiness: No
+Eye Drops: yes
+Swallowing Difficulty: No
+Difficulty Waking Up: yes
+Difficulty Sitting Up: No
+Psoriasis: yes
+Healing Time: No
+Painful Eye: No
+Cough: No
+Previous History of Joint Pain, Swelling: Yes
+Medication History: yes, they helped
+Current Medications: No",Rheumatoid Arhtritis
+"Age: 51.0
+Gender: male
+Problems: joint pain, joint swelling, morning stiffness
+Duration of Problem: 1095.0 days
+Pain Location: no
+Pain Areas (Image 1): Left writst, Right MCP (Metacarpal phalangeal joint)
+Pain Areas (Image 2): nan
+Joint Deformity: no
+Swelling Areas (Image 1): Left writst, Right MCP (Metacarpal phalangeal joint)
+Swelling Areas (Image 2): nan
+Swelling Pattern: comes and goes (episodic)
+Redness in Swollen Joints: no
+Warm Joints: no
+Pain Time: morning
+Sleep Disturbance: no
+Sleep Hours: 7.0
+Physical Activity Impact: increase
+Rest Impact: reduce
+Painkillers: yes
+Painkiller Response: moderate relief
+Fever: yes, less than 100°f
+Skin Rash: No
+Rash in Sun: No
+Mouth Ulcers: No
+Eye Grittiness: sand like sensation
+Eye Drops: No
+Swallowing Difficulty: No
+Difficulty Waking Up: No
+Difficulty Sitting Up: No
+Psoriasis: No
+Healing Time: No
+Painful Eye: No
+Cough: No
+Previous History of Joint Pain, Swelling: Yes
+Medication History: yes, they helped
+Current Medications: No",Rheumatoid Arhtritis
+"Age: 51.0
+Gender: female
+Problems: joint pain
+Duration of Problem: 1825.0 days
+Pain Location: no
+Pain Areas (Image 1): Right wrist, Right MCP (Metacarpal phalangeal joint), Right PIP (Proximal interphalangeal joint), Right thigh, Right knee, Right ankle, Right midfoot, Left shoulder, Left writst, Right MCP (Metacarpal phalangeal joint), Right PIP (Proximal interphalangeal joint), Right knee, Right ankle, Right midfoot
+Pain Areas (Image 2): nan
+Joint Deformity: no
+Swelling Areas (Image 1): nan
+Swelling Areas (Image 2): nan
+Swelling Pattern: not applicable
+Redness in Swollen Joints: not applicable
+Warm Joints: no
+Pain Time: all the time
+Sleep Disturbance: no
+Sleep Hours: 7.0
+Physical Activity Impact: increase
+Rest Impact: reduce
+Painkillers: yes
+Painkiller Response: good relief
+Fever: yes, less than 100°f
+Skin Rash: No
+Rash in Sun: No
+Mouth Ulcers: No
+Eye Grittiness: No
+Eye Drops: No
+Swallowing Difficulty: No
+Difficulty Waking Up: yes
+Difficulty Sitting Up: yes
+Psoriasis: No
+Healing Time: No
+Painful Eye: No
+Cough: No
+Previous History of Joint Pain, Swelling: Yes
+Medication History: yes, they helped
+Current Medications: yes, thyroid problem",Rheumatoid Arhtritis
+"Age: 61.0
+Gender: female
+Problems: joint pain, joint swelling
+Duration of Problem: 3285.0 days
+Pain Location: no
+Pain Areas (Image 1): Right shoulder, Right MCP (Metacarpal phalangeal joint), Right PIP (Proximal interphalangeal joint), Right knee, Right ankle, Right midfoot, Left shoulder, Left writst, Right MCP (Metacarpal phalangeal joint), Right PIP (Proximal interphalangeal joint), Right knee, Right ankle, Right midfoot
+Pain Areas (Image 2): nan
+Joint Deformity: no
+Swelling Areas (Image 1): Right MCP (Metacarpal phalangeal joint), Right PIP (Proximal interphalangeal joint), Right toes, Right MCP (Metacarpal phalangeal joint), Right PIP (Proximal interphalangeal joint), Right toes
+Swelling Areas (Image 2): nan
+Swelling Pattern: comes and goes (episodic)
+Redness in Swollen Joints: no
+Warm Joints: no
+Pain Time: morning
+Sleep Disturbance: no
+Sleep Hours: 8.0
+Physical Activity Impact: increase
+Rest Impact: increase
+Painkillers: yes
+Painkiller Response: moderate relief
+Fever: yes, less than 100°f
+Skin Rash: No
+Rash in Sun: No
+Mouth Ulcers: No
+Eye Grittiness: itching
+Eye Drops: No
+Swallowing Difficulty: No
+Difficulty Waking Up: yes
+Difficulty Sitting Up: yes
+Psoriasis: No
+Healing Time: No
+Painful Eye: No
+Cough: No
+Previous History of Joint Pain, Swelling: Yes
+Medication History: yes, they helped
+Current Medications: No",Rheumatoid Arhtritis
+"Age: 53.0
+Gender: female
+Problems: joint pain, joint swelling
+Duration of Problem: 180.0 days
+Pain Location: nan
+Pain Areas (Image 1): Right thigh, Right knee, Right ankle, Right midfoot, Right toes
+Pain Areas (Image 2): Right PSIS, Low back, Right hip buttock
+Joint Deformity: no
+Swelling Areas (Image 1): Right ankle, Right midfoot
+Swelling Areas (Image 2): nan
+Swelling Pattern: constant (persistent)
+Redness in Swollen Joints: not applicable
+Warm Joints: yes
+Pain Time: all the time
+Sleep Disturbance: no
+Sleep Hours: 3.0
+Physical Activity Impact: increase
+Rest Impact: increase
+Painkillers: yes
+Painkiller Response: mild relief
+Fever: yes, less than 100°f
+Skin Rash: yes, hands / feet
+Rash in Sun: No
+Mouth Ulcers: No
+Eye Grittiness: sand like sensation
+Eye Drops: No
+Swallowing Difficulty: No
+Difficulty Waking Up: No
+Difficulty Sitting Up: yes
+Psoriasis: No
+Healing Time: No
+Painful Eye: No
+Cough: No
+Previous History of Joint Pain, Swelling: Yes
+Medication History: yes, they helped
+Current Medications: No",Rheumatoid Arhtritis
+"Age: 55.0
+Gender: female
+Problems: joint pain, joint swelling
+Duration of Problem: 2920.0 days
+Pain Location: no
+Pain Areas (Image 1): Right wrist, Right MCP (Metacarpal phalangeal joint), Right PIP (Proximal interphalangeal joint), Right knee, Right ankle, Right midfoot, Left writst, Right MCP (Metacarpal phalangeal joint), Right PIP (Proximal interphalangeal joint), Right knee, Right ankle, Right midfoot
+Pain Areas (Image 2): nan
+Joint Deformity: no
+Swelling Areas (Image 1): Right PIP (Proximal interphalangeal joint), Right ankle, Right midfoot, Right MCP (Metacarpal phalangeal joint), Right PIP (Proximal interphalangeal joint), Right ankle, Right midfoot
+Swelling Areas (Image 2): nan
+Swelling Pattern: comes and goes (episodic)
+Redness in Swollen Joints: no
+Warm Joints: yes
+Pain Time: morning
+Sleep Disturbance: no
+Sleep Hours: 7.0
+Physical Activity Impact: increase
+Rest Impact: increase
+Painkillers: no
+Painkiller Response: moderate relief
+Fever: yes, less than 100°f
+Skin Rash: No
+Rash in Sun: No
+Mouth Ulcers: No
+Eye Grittiness: No
+Eye Drops: yes
+Swallowing Difficulty: No
+Difficulty Waking Up: yes
+Difficulty Sitting Up: No
+Psoriasis: No
+Healing Time: No
+Painful Eye: yes
+Cough: yes
+Previous History of Joint Pain, Swelling: Yes
+Medication History: yes, they helped
+Current Medications: No",Rheumatoid Arhtritis
+"Age: 61.0
+Gender: female
+Problems: joint pain, joint swelling
+Duration of Problem: 1825.0 days
+Pain Location: no
+Pain Areas (Image 1): Right wrist, Right MCP (Metacarpal phalangeal joint), Right PIP (Proximal interphalangeal joint), Right knee, Right ankle, Right midfoot, Left writst, Right MCP (Metacarpal phalangeal joint), Right PIP (Proximal interphalangeal joint), Right knee, Right ankle, Right midfoot
+Pain Areas (Image 2): nan
+Joint Deformity: no
+Swelling Areas (Image 1): Right knee, Right ankle, Right midfoot, Right knee, Right ankle, Right midfoot
+Swelling Areas (Image 2): nan
+Swelling Pattern: comes and goes (episodic)
+Redness in Swollen Joints: yes
+Warm Joints: yes
+Pain Time: morning
+Sleep Disturbance: no
+Sleep Hours: 7.0
+Physical Activity Impact: increase
+Rest Impact: increase
+Painkillers: yes
+Painkiller Response: good relief
+Fever: yes, less than 100°f
+Skin Rash: No
+Rash in Sun: No
+Mouth Ulcers: No
+Eye Grittiness: No
+Eye Drops: No
+Swallowing Difficulty: No
+Difficulty Waking Up: yes
+Difficulty Sitting Up: yes
+Psoriasis: No
+Healing Time: No
+Painful Eye: No
+Cough: No
+Previous History of Joint Pain, Swelling: Yes
+Medication History: yes, they helped
+Current Medications: No",Rheumatoid Arhtritis
+"Age: 60.0
+Gender: female
+Problems: joint pain, joint swelling
+Duration of Problem: 3285.0 days
+Pain Location: yes, lower backache
+Pain Areas (Image 1): Right shoulder, Right wrist, Right MCP (Metacarpal phalangeal joint), Right PIP (Proximal interphalangeal joint), Right knee, Right ankle, Right midfoot, Right toes, Left shoulder, Left writst, Right MCP (Metacarpal phalangeal joint), Right PIP (Proximal interphalangeal joint), Right knee, Right ankle, Right midfoot, Right toes
+Pain Areas (Image 2): nan
+Joint Deformity: no
+Swelling Areas (Image 1): Right wrist, Right MCP (Metacarpal phalangeal joint), Right PIP (Proximal interphalangeal joint), Right knee, Right ankle, Right midfoot, Left writst, Right MCP (Metacarpal phalangeal joint), Right PIP (Proximal interphalangeal joint), Right knee, Right ankle, Right midfoot
+Swelling Areas (Image 2): nan
+Swelling Pattern: comes and goes (episodic)
+Redness in Swollen Joints: no
+Warm Joints: yes
+Pain Time: morning
+Sleep Disturbance: yes
+Sleep Hours: 4.0
+Physical Activity Impact: increase
+Rest Impact: increase
+Painkillers: yes
+Painkiller Response: moderate relief
+Fever: yes, less than 100°f
+Skin Rash: No
+Rash in Sun: No
+Mouth Ulcers: No
+Eye Grittiness: itching
+Eye Drops: yes
+Swallowing Difficulty: No
+Difficulty Waking Up: yes
+Difficulty Sitting Up: yes
+Psoriasis: No
+Healing Time: No
+Painful Eye: No
+Cough: No
+Previous History of Joint Pain, Swelling: Yes
+Medication History: yes, they helped
+Current Medications: yes, diabetes, yes, hypertension",Rheumatoid Arhtritis
+"Age: 53.0
+Gender: male
+Problems: joint pain, joint swelling
+Duration of Problem: 1460.0 days
+Pain Location: no
+Pain Areas (Image 1): Right knee, Left writst, Right MCP (Metacarpal phalangeal joint)
+Pain Areas (Image 2): Right elbow
+Joint Deformity: no
+Swelling Areas (Image 1): Right upper arm, Right knee, Left writst, Right MCP (Metacarpal phalangeal joint)
+Swelling Areas (Image 2): nan
+Swelling Pattern: constant (persistent)
+Redness in Swollen Joints: no
+Warm Joints: no
+Pain Time: all the time
+Sleep Disturbance: no
+Sleep Hours: 6.0
+Physical Activity Impact: increase
+Rest Impact: reduce
+Painkillers: no
+Painkiller Response: not applicable
+Fever: yes, less than 100°f
+Skin Rash: No
+Rash in Sun: No
+Mouth Ulcers: No
+Eye Grittiness: No
+Eye Drops: No
+Swallowing Difficulty: No
+Difficulty Waking Up: yes
+Difficulty Sitting Up: No
+Psoriasis: No
+Healing Time: No
+Painful Eye: No
+Cough: No
+Previous History of Joint Pain, Swelling: Yes
+Medication History: yes, they helped
+Current Medications: No",Rheumatoid Arhtritis
+"Age: 59.0
+Gender: female
+Problems: joint pain
+Duration of Problem: 3285.0 days
+Pain Location: no, yes, lower backache
+Pain Areas (Image 1): nan
+Pain Areas (Image 2): Lower back (left PSIS), Lower midback, Right PSIS
+Joint Deformity: no
+Swelling Areas (Image 1): nan
+Swelling Areas (Image 2): nan
+Swelling Pattern: not applicable
+Redness in Swollen Joints: not applicable
+Warm Joints: no
+Pain Time: morning
+Sleep Disturbance: no
+Sleep Hours: 6.0
+Physical Activity Impact: increase
+Rest Impact: reduce
+Painkillers: no
+Painkiller Response: not applicable
+Fever: yes, less than 100°f
+Skin Rash: No
+Rash in Sun: No
+Mouth Ulcers: No
+Eye Grittiness: No
+Eye Drops: No
+Swallowing Difficulty: No
+Difficulty Waking Up: yes
+Difficulty Sitting Up: yes
+Psoriasis: No
+Healing Time: No
+Painful Eye: No
+Cough: No
+Previous History of Joint Pain, Swelling: Yes
+Medication History: yes, they helped
+Current Medications: yes, hypertension, yes, thyroid problem",Rheumatoid Arhtritis
+"Age: 58.0
+Gender: female
+Problems: joint pain, joint swelling
+Duration of Problem: 3285.0 days
+Pain Location: no
+Pain Areas (Image 1): Right shoulder, Right wrist, Right MCP (Metacarpal phalangeal joint), Right PIP (Proximal interphalangeal joint), Right knee, Right ankle, Right midfoot, Right toes, Left shoulder, Left writst, Right MCP (Metacarpal phalangeal joint), Right PIP (Proximal interphalangeal joint), Right knee
+Pain Areas (Image 2): nan
+Joint Deformity: no
+Swelling Areas (Image 1): Right wrist, Right MCP (Metacarpal phalangeal joint), Right PIP (Proximal interphalangeal joint), Right knee, Right ankle, Right midfoot, Left writst, Right MCP (Metacarpal phalangeal joint), Right PIP (Proximal interphalangeal joint), Right knee, Right ankle, Right midfoot
+Swelling Areas (Image 2): nan
+Swelling Pattern: comes and goes (episodic)
+Redness in Swollen Joints: yes
+Warm Joints: yes
+Pain Time: night
+Sleep Disturbance: no
+Sleep Hours: 6.0
+Physical Activity Impact: increase
+Rest Impact: increase
+Painkillers: yes
+Painkiller Response: good relief
+Fever: yes, less than 100°f
+Skin Rash: No
+Rash in Sun: No
+Mouth Ulcers: No
+Eye Grittiness: No
+Eye Drops: No
+Swallowing Difficulty: No
+Difficulty Waking Up: yes
+Difficulty Sitting Up: yes
+Psoriasis: No
+Healing Time: No
+Painful Eye: No
+Cough: No
+Previous History of Joint Pain, Swelling: Yes
+Medication History: yes, they helped
+Current Medications: No",Rheumatoid Arhtritis
+"Age: 49.0
+Gender: female
+Problems: joint pain, joint swelling
+Duration of Problem: 1095.0 days
+Pain Location: no
+Pain Areas (Image 1): Right shoulder, Right wrist, Right MCP (Metacarpal phalangeal joint), Right PIP (Proximal interphalangeal joint), Right knee, Right ankle, Right midfoot, Left shoulder, Left writst, Right MCP (Metacarpal phalangeal joint), Right PIP (Proximal interphalangeal joint), Right knee, Right ankle, Right midfoot
+Pain Areas (Image 2): nan
+Joint Deformity: no
+Swelling Areas (Image 1): Right ankle, Right midfoot, Right ankle, Right midfoot
+Swelling Areas (Image 2): nan
+Swelling Pattern: comes and goes (episodic)
+Redness in Swollen Joints: no
+Warm Joints: yes
+Pain Time: morning
+Sleep Disturbance: no
+Sleep Hours: 7.0
+Physical Activity Impact: increase
+Rest Impact: reduce
+Painkillers: yes
+Painkiller Response: good relief
+Fever: yes, less than 100°f
+Skin Rash: No
+Rash in Sun: No
+Mouth Ulcers: yes
+Eye Grittiness: No
+Eye Drops: No
+Swallowing Difficulty: No
+Difficulty Waking Up: yes
+Difficulty Sitting Up: No
+Psoriasis: No
+Healing Time: No
+Painful Eye: No
+Cough: No
+Previous History of Joint Pain, Swelling: Yes
+Medication History: yes, they helped
+Current Medications: No",Rheumatoid Arhtritis
+"Age: 48.0
+Gender: female
+Problems: joint pain, joint swelling
+Duration of Problem: 730.0 days
+Pain Location: no
+Pain Areas (Image 1): Right wrist, Right MCP (Metacarpal phalangeal joint), Right knee
+Pain Areas (Image 2): nan
+Joint Deformity: no
+Swelling Areas (Image 1): Right wrist, Right MCP (Metacarpal phalangeal joint), Right knee
+Swelling Areas (Image 2): nan
+Swelling Pattern: constant (persistent)
+Redness in Swollen Joints: no
+Warm Joints: yes
+Pain Time: morning
+Sleep Disturbance: no
+Sleep Hours: 7.0
+Physical Activity Impact: increase
+Rest Impact: reduce
+Painkillers: yes
+Painkiller Response: good relief
+Fever: yes, less than 100°f
+Skin Rash: No
+Rash in Sun: No
+Mouth Ulcers: No
+Eye Grittiness: No
+Eye Drops: No
+Swallowing Difficulty: No
+Difficulty Waking Up: yes
+Difficulty Sitting Up: yes
+Psoriasis: No
+Healing Time: No
+Painful Eye: No
+Cough: No
+Previous History of Joint Pain, Swelling: Yes
+Medication History: yes, they helped
+Current Medications: No",Rheumatoid Arhtritis
+"Age: 67.0
+Gender: female
+Problems: joint pain, joint swelling
+Duration of Problem: 3285.0 days
+Pain Location: no
+Pain Areas (Image 1): Right shoulder, Right wrist, Right MCP (Metacarpal phalangeal joint), Right PIP (Proximal interphalangeal joint), Right knee, Right ankle, Right midfoot, Left shoulder, Left writst, Right MCP (Metacarpal phalangeal joint), Right PIP (Proximal interphalangeal joint), Right knee, Right ankle, Right midfoot
+Pain Areas (Image 2): nan
+Joint Deformity: yes, right hand
+Swelling Areas (Image 1): Right knee, Right knee
+Swelling Areas (Image 2): nan
+Swelling Pattern: comes and goes (episodic)
+Redness in Swollen Joints: no
+Warm Joints: yes
+Pain Time: morning
+Sleep Disturbance: yes
+Sleep Hours: 5.0
+Physical Activity Impact: increase
+Rest Impact: increase
+Painkillers: yes
+Painkiller Response: good relief
+Fever: yes, less than 100°f
+Skin Rash: No
+Rash in Sun: No
+Mouth Ulcers: No
+Eye Grittiness: itching
+Eye Drops: No
+Swallowing Difficulty: No
+Difficulty Waking Up: yes
+Difficulty Sitting Up: yes
+Psoriasis: No
+Healing Time: No
+Painful Eye: No
+Cough: No
+Previous History of Joint Pain, Swelling: Yes
+Medication History: yes, they helped
+Current Medications: yes, diabetes, yes, hypertension",Rheumatoid Arhtritis
+"Age: 55.0
+Gender: male
+Problems: joint pain, joint swelling
+Duration of Problem: 0.0 days
+Pain Location: nan
+Pain Areas (Image 1): Right shoulder, Right wrist, Right MCP (Metacarpal phalangeal joint), Right PIP (Proximal interphalangeal joint), Right thigh, Right knee, Right toes, Left shoulder, Left writst, Right MCP (Metacarpal phalangeal joint), Right PIP (Proximal interphalangeal joint), Right thigh, Right knee, Right toes
+Pain Areas (Image 2): nan
+Joint Deformity: no
+Swelling Areas (Image 1): Right knee, Right knee, Right ankle, Right midfoot
+Swelling Areas (Image 2): nan
+Swelling Pattern: comes and goes (episodic)
+Redness in Swollen Joints: no
+Warm Joints: yes
+Pain Time: morning
+Sleep Disturbance: no
+Sleep Hours: 8.0
+Physical Activity Impact: increase
+Rest Impact: reduce
+Painkillers: yes
+Painkiller Response: good relief
+Fever: yes, less than 100°f
+Skin Rash: yes, hands / feet
+Rash in Sun: No
+Mouth Ulcers: No
+Eye Grittiness: sand like sensation
+Eye Drops: No
+Swallowing Difficulty: No
+Difficulty Waking Up: yes
+Difficulty Sitting Up: No
+Psoriasis: No
+Healing Time: No
+Painful Eye: yes
+Cough: No
+Previous History of Joint Pain, Swelling: Yes
+Medication History: No
+Current Medications: yes, diabetes",Rheumatoid Arhtritis
+"Age: 56.0
+Gender: female
+Problems: joint pain
+Duration of Problem: 1460.0 days
+Pain Location: yes, lower backache
+Pain Areas (Image 1): Right thigh, Right knee, Left shoulder, Left upper arm, Left forearm
+Pain Areas (Image 2): nan
+Joint Deformity: no, yes, left hand, yes, right hand
+Swelling Areas (Image 1): nan
+Swelling Areas (Image 2): nan
+Swelling Pattern: not applicable
+Redness in Swollen Joints: no
+Warm Joints: yes
+Pain Time: morning
+Sleep Disturbance: no
+Sleep Hours: 8.0
+Physical Activity Impact: increase
+Rest Impact: reduce
+Painkillers: yes
+Painkiller Response: good relief
+Fever: yes, less than 100°f
+Skin Rash: No
+Rash in Sun: No
+Mouth Ulcers: No
+Eye Grittiness: itching
+Eye Drops: yes
+Swallowing Difficulty: No
+Difficulty Waking Up: yes
+Difficulty Sitting Up: No
+Psoriasis: No
+Healing Time: No
+Painful Eye: No
+Cough: No
+Previous History of Joint Pain, Swelling: Yes
+Medication History: yes, they helped
+Current Medications: yes, diabetes, yes, thyroid problem",Rheumatoid Arhtritis
+"Age: 55.0
+Gender: female
+Problems: joint pain, joint swelling
+Duration of Problem: 730.0 days
+Pain Location: yes, lower backache
+Pain Areas (Image 1): Right wrist, Right MCP (Metacarpal phalangeal joint), Right PIP (Proximal interphalangeal joint), Right knee, Right ankle, Right midfoot, Left writst, Right MCP (Metacarpal phalangeal joint), Right PIP (Proximal interphalangeal joint), Right knee, Right ankle, Right midfoot
+Pain Areas (Image 2): nan
+Joint Deformity: no
+Swelling Areas (Image 1): Right wrist, Right MCP (Metacarpal phalangeal joint), Right PIP (Proximal interphalangeal joint), Right knee, Right ankle, Right midfoot, Left writst, Right MCP (Metacarpal phalangeal joint), Right PIP (Proximal interphalangeal joint), Right knee, Right ankle, Right midfoot, Right toes
+Swelling Areas (Image 2): nan
+Swelling Pattern: comes and goes (episodic)
+Redness in Swollen Joints: no
+Warm Joints: yes
+Pain Time: morning
+Sleep Disturbance: yes
+Sleep Hours: 5.0
+Physical Activity Impact: increase
+Rest Impact: increase
+Painkillers: yes
+Painkiller Response: good relief
+Fever: yes, less than 100°f
+Skin Rash: No
+Rash in Sun: No
+Mouth Ulcers: No
+Eye Grittiness: itching
+Eye Drops: No
+Swallowing Difficulty: No
+Difficulty Waking Up: yes
+Difficulty Sitting Up: yes
+Psoriasis: No
+Healing Time: No
+Painful Eye: No
+Cough: yes
+Previous History of Joint Pain, Swelling: Yes
+Medication History: yes, they helped
+Current Medications: yes, diabetes, yes, thyroid problem",Rheumatoid Arhtritis
+"Age: 56.0
+Gender: female
+Problems: joint pain, joint swelling
+Duration of Problem: 730.0 days
+Pain Location: no
+Pain Areas (Image 1): Right MCP (Metacarpal phalangeal joint), Right knee, Right ankle, Right midfoot, Right toes
+Pain Areas (Image 2): nan
+Joint Deformity: no
+Swelling Areas (Image 1): nan
+Swelling Areas (Image 2): nan
+Swelling Pattern: not applicable
+Redness in Swollen Joints: no
+Warm Joints: no
+Pain Time: all the time
+Sleep Disturbance: no
+Sleep Hours: 6.0
+Physical Activity Impact: increase
+Rest Impact: reduce
+Painkillers: yes
+Painkiller Response: good relief
+Fever: yes, less than 100°f
+Skin Rash: yes, hands / feet
+Rash in Sun: No
+Mouth Ulcers: No
+Eye Grittiness: itching
+Eye Drops: No
+Swallowing Difficulty: No
+Difficulty Waking Up: yes
+Difficulty Sitting Up: yes
+Psoriasis: yes
+Healing Time: No
+Painful Eye: No
+Cough: No
+Previous History of Joint Pain, Swelling: Yes
+Medication History: yes, they helped
+Current Medications: No",Rheumatoid Arhtritis
+"Age: 48.0
+Gender: female
+Problems: joint pain, joint swelling
+Duration of Problem: 210.0 days
+Pain Location: no
+Pain Areas (Image 1): Right shoulder, Right wrist, Right MCP (Metacarpal phalangeal joint), Right PIP (Proximal interphalangeal joint), Right knee, Right ankle, Right midfoot, Left shoulder, Left writst, Right MCP (Metacarpal phalangeal joint), Right PIP (Proximal interphalangeal joint), Right knee, Right ankle, Right midfoot
+Pain Areas (Image 2): nan
+Joint Deformity: no
+Swelling Areas (Image 1): Right wrist, Right MCP (Metacarpal phalangeal joint), Right knee, Left writst, Right MCP (Metacarpal phalangeal joint), Right knee
+Swelling Areas (Image 2): nan
+Swelling Pattern: comes and goes (episodic)
+Redness in Swollen Joints: no
+Warm Joints: no
+Pain Time: night
+Sleep Disturbance: no
+Sleep Hours: 7.0
+Physical Activity Impact: increase
+Rest Impact: increase
+Painkillers: yes
+Painkiller Response: good relief
+Fever: yes, less than 100°f
+Skin Rash: No
+Rash in Sun: No
+Mouth Ulcers: No
+Eye Grittiness: itching
+Eye Drops: No
+Swallowing Difficulty: No
+Difficulty Waking Up: yes
+Difficulty Sitting Up: yes
+Psoriasis: No
+Healing Time: No
+Painful Eye: No
+Cough: No
+Previous History of Joint Pain, Swelling: Yes
+Medication History: No
+Current Medications: No",Rheumatoid Arhtritis
+"Age: 41.0
+Gender: female
+Problems: joint pain, joint swelling
+Duration of Problem: 1460.0 days
+Pain Location: no
+Pain Areas (Image 1): Right knee, Right ankle, Right midfoot, Right toes, Right knee, Right ankle, Right midfoot, Right toes
+Pain Areas (Image 2): nan
+Joint Deformity: no
+Swelling Areas (Image 1): Right knee, Right ankle, Right midfoot, Right toes, Right knee, Right ankle, Right midfoot, Right toes
+Swelling Areas (Image 2): nan
+Swelling Pattern: comes and goes (episodic)
+Redness in Swollen Joints: no
+Warm Joints: no
+Pain Time: night
+Sleep Disturbance: yes
+Sleep Hours: 5.0
+Physical Activity Impact: increase
+Rest Impact: increase
+Painkillers: yes
+Painkiller Response: good relief
+Fever: yes, less than 100°f
+Skin Rash: No
+Rash in Sun: No
+Mouth Ulcers: No
+Eye Grittiness: No
+Eye Drops: No
+Swallowing Difficulty: No
+Difficulty Waking Up: yes
+Difficulty Sitting Up: yes
+Psoriasis: No
+Healing Time: No
+Painful Eye: No
+Cough: No
+Previous History of Joint Pain, Swelling: Yes
+Medication History: yes, they helped
+Current Medications: No",Rheumatoid Arhtritis
+"Age: 53.0
+Gender: female
+Problems: joint pain, joint swelling, inability to move hand / feet
+Duration of Problem: 1095.0 days
+Pain Location: no
+Pain Areas (Image 1): Right shoulder, Right wrist, Right MCP (Metacarpal phalangeal joint), Right PIP (Proximal interphalangeal joint), Right knee, Right ankle, Right midfoot, Right toes, Right knee, Right ankle, Right midfoot
+Pain Areas (Image 2): nan
+Joint Deformity: yes, left hand, yes, right hand, yes, left foot, yes, right foot
+Swelling Areas (Image 1): Right upper arm, Right wrist, Right MCP (Metacarpal phalangeal joint), Right PIP (Proximal interphalangeal joint), Right knee, Right ankle, Right midfoot, Left TMJ joint, Left writst, Right MCP (Metacarpal phalangeal joint), Right PIP (Proximal interphalangeal joint), Right knee, Right ankle, Right midfoot
+Swelling Areas (Image 2): nan
+Swelling Pattern: comes and goes (episodic)
+Redness in Swollen Joints: no
+Warm Joints: no
+Pain Time: morning
+Sleep Disturbance: no
+Sleep Hours: 6.0
+Physical Activity Impact: increase
+Rest Impact: increase
+Painkillers: yes
+Painkiller Response: moderate relief
+Fever: yes, less than 100°f
+Skin Rash: No
+Rash in Sun: No
+Mouth Ulcers: No
+Eye Grittiness: No
+Eye Drops: No
+Swallowing Difficulty: No
+Difficulty Waking Up: yes
+Difficulty Sitting Up: yes
+Psoriasis: No
+Healing Time: No
+Painful Eye: No
+Cough: No
+Previous History of Joint Pain, Swelling: Yes
+Medication History: yes, they helped
+Current Medications: No",Rheumatoid Arhtritis
+"Age: 55.0
+Gender: female
+Problems: joint pain, joint swelling, morning stiffness
+Duration of Problem: 3285.0 days
+Pain Location: no
+Pain Areas (Image 1): Right forearm, Right wrist, Right MCP (Metacarpal phalangeal joint), Right knee, Right ankle, Right midfoot
+Pain Areas (Image 2): nan
+Joint Deformity: yes, right hand, yes, left foot, yes, right foot
+Swelling Areas (Image 1): Right wrist, Right MCP (Metacarpal phalangeal joint), Left writst, Right MCP (Metacarpal phalangeal joint)
+Swelling Areas (Image 2): nan
+Swelling Pattern: comes and goes (episodic)
+Redness in Swollen Joints: yes
+Warm Joints: yes
+Pain Time: morning
+Sleep Disturbance: no
+Sleep Hours: 6.0
+Physical Activity Impact: reduce
+Rest Impact: increase
+Painkillers: yes
+Painkiller Response: good relief
+Fever: yes, 100-102°f
+Skin Rash: No
+Rash in Sun: No
+Mouth Ulcers: No
+Eye Grittiness: No
+Eye Drops: No
+Swallowing Difficulty: No
+Difficulty Waking Up: No
+Difficulty Sitting Up: No
+Psoriasis: No
+Healing Time: No
+Painful Eye: No
+Cough: No
+Previous History of Joint Pain, Swelling: Yes
+Medication History: yes, they helped
+Current Medications: No",Rheumatoid Arhtritis
+"Age: 53.0
+Gender: female
+Problems: joint pain, joint swelling, inability to move hand / feet, morning stiffness
+Duration of Problem: 3285.0 days
+Pain Location: no
+Pain Areas (Image 1): Right wrist, Right MCP (Metacarpal phalangeal joint), Right knee, Left writst, Right MCP (Metacarpal phalangeal joint), Right knee
+Pain Areas (Image 2): nan
+Joint Deformity: no
+Swelling Areas (Image 1): Right wrist, Right MCP (Metacarpal phalangeal joint), Left writst, Right MCP (Metacarpal phalangeal joint)
+Swelling Areas (Image 2): nan
+Swelling Pattern: comes and goes (episodic)
+Redness in Swollen Joints: yes
+Warm Joints: yes
+Pain Time: morning
+Sleep Disturbance: yes
+Sleep Hours: 5.0
+Physical Activity Impact: reduce
+Rest Impact: increase
+Painkillers: yes
+Painkiller Response: good relief
+Fever: No
+Skin Rash: No
+Rash in Sun: No
+Mouth Ulcers: No
+Eye Grittiness: No
+Eye Drops: No
+Swallowing Difficulty: No
+Difficulty Waking Up: No
+Difficulty Sitting Up: No
+Psoriasis: No
+Healing Time: No
+Painful Eye: No
+Cough: No
+Previous History of Joint Pain, Swelling: Yes
+Medication History: yes, they helped
+Current Medications: No",Rheumatoid Arhtritis
+"Age: 42.0
+Gender: female
+Problems: joint pain, joint swelling
+Duration of Problem: 3285.0 days
+Pain Location: no
+Pain Areas (Image 1): Right wrist, Right MCP (Metacarpal phalangeal joint), Right PIP (Proximal interphalangeal joint), Right ankle, Right midfoot, Left writst, Right MCP (Metacarpal phalangeal joint), Right PIP (Proximal interphalangeal joint), Right knee, Right ankle, Right midfoot, Right toes
+Pain Areas (Image 2): nan
+Joint Deformity: no
+Swelling Areas (Image 1): Right wrist, Right MCP (Metacarpal phalangeal joint), Right PIP (Proximal interphalangeal joint), Right ankle, Right midfoot, Left writst, Right MCP (Metacarpal phalangeal joint), Right PIP (Proximal interphalangeal joint), Right ankle, Right midfoot
+Swelling Areas (Image 2): nan
+Swelling Pattern: comes and goes (episodic)
+Redness in Swollen Joints: no
+Warm Joints: no
+Pain Time: all the time
+Sleep Disturbance: no
+Sleep Hours: 8.0
+Physical Activity Impact: increase
+Rest Impact: reduce
+Painkillers: yes
+Painkiller Response: good relief
+Fever: yes, less than 100°f
+Skin Rash: yes, hands / feet
+Rash in Sun: No
+Mouth Ulcers: yes
+Eye Grittiness: No
+Eye Drops: No
+Swallowing Difficulty: No
+Difficulty Waking Up: yes
+Difficulty Sitting Up: yes
+Psoriasis: No
+Healing Time: No
+Painful Eye: No
+Cough: No
+Previous History of Joint Pain, Swelling: Yes
+Medication History: yes, they helped
+Current Medications: yes, thyroid problem",Rheumatoid Arhtritis
+"Age: 59.0
+Gender: female
+Problems: joint pain, joint swelling
+Duration of Problem: 3285.0 days
+Pain Location: no
+Pain Areas (Image 1): Right shoulder, Right upper arm, Right forearm, Right wrist, Right MCP (Metacarpal phalangeal joint), Right PIP (Proximal interphalangeal joint), Right knee
+Pain Areas (Image 2): nan
+Joint Deformity: no
+Swelling Areas (Image 1): Right wrist, Right MCP (Metacarpal phalangeal joint), Right PIP (Proximal interphalangeal joint)
+Swelling Areas (Image 2): nan
+Swelling Pattern: comes and goes (episodic)
+Redness in Swollen Joints: no
+Warm Joints: yes
+Pain Time: morning
+Sleep Disturbance: yes
+Sleep Hours: 5.0
+Physical Activity Impact: reduce
+Rest Impact: increase
+Painkillers: yes
+Painkiller Response: good relief
+Fever: yes, less than 100°f
+Skin Rash: No
+Rash in Sun: No
+Mouth Ulcers: No
+Eye Grittiness: No
+Eye Drops: yes
+Swallowing Difficulty: No
+Difficulty Waking Up: yes
+Difficulty Sitting Up: yes
+Psoriasis: No
+Healing Time: No
+Painful Eye: No
+Cough: No
+Previous History of Joint Pain, Swelling: Yes
+Medication History: yes, they helped
+Current Medications: No",Rheumatoid Arhtritis
+"Age: 64.0
+Gender: male
+Problems: joint pain, joint swelling
+Duration of Problem: 1460.0 days
+Pain Location: no
+Pain Areas (Image 1): Right shoulder, Right wrist, Right MCP (Metacarpal phalangeal joint), Right PIP (Proximal interphalangeal joint), Right knee, Right ankle, Right midfoot, Right toes, Left shoulder, Left writst, Right MCP (Metacarpal phalangeal joint), Right PIP (Proximal interphalangeal joint), Right knee
+Pain Areas (Image 2): nan
+Joint Deformity: no
+Swelling Areas (Image 1): nan
+Swelling Areas (Image 2): nan
+Swelling Pattern: not applicable
+Redness in Swollen Joints: not applicable
+Warm Joints: no
+Pain Time: morning
+Sleep Disturbance: no
+Sleep Hours: 7.0
+Physical Activity Impact: increase
+Rest Impact: reduce
+Painkillers: no
+Painkiller Response: not applicable
+Fever: yes, less than 100°f
+Skin Rash: No
+Rash in Sun: No
+Mouth Ulcers: No
+Eye Grittiness: No
+Eye Drops: No
+Swallowing Difficulty: No
+Difficulty Waking Up: yes
+Difficulty Sitting Up: No
+Psoriasis: No
+Healing Time: No
+Painful Eye: No
+Cough: No
+Previous History of Joint Pain, Swelling: Yes
+Medication History: yes, they helped
+Current Medications: yes, hypertension",Rheumatoid Arhtritis
+"Age: 54.0
+Gender: female
+Problems: joint pain, joint swelling
+Duration of Problem: 3285.0 days
+Pain Location: yes, lower backache
+Pain Areas (Image 1): Right shoulder, Right wrist, Right MCP (Metacarpal phalangeal joint), Right PIP (Proximal interphalangeal joint), Right knee, Right ankle, Right midfoot, Left shoulder, Left writst, Right MCP (Metacarpal phalangeal joint), Right PIP (Proximal interphalangeal joint), Right knee, Right ankle, Right midfoot, Right toes
+Pain Areas (Image 2): nan
+Joint Deformity: no
+Swelling Areas (Image 1): Right wrist, Right MCP (Metacarpal phalangeal joint), Right PIP (Proximal interphalangeal joint), Right knee, Right ankle, Right midfoot, Left writst, Right MCP (Metacarpal phalangeal joint), Right PIP (Proximal interphalangeal joint), Right knee, Right ankle, Right midfoot
+Swelling Areas (Image 2): nan
+Swelling Pattern: constant (persistent)
+Redness in Swollen Joints: no
+Warm Joints: no
+Pain Time: morning
+Sleep Disturbance: yes
+Sleep Hours: 5.0
+Physical Activity Impact: increase
+Rest Impact: increase
+Painkillers: yes
+Painkiller Response: moderate relief
+Fever: yes, less than 100°f
+Skin Rash: yes, hands / feet
+Rash in Sun: No
+Mouth Ulcers: No
+Eye Grittiness: No
+Eye Drops: No
+Swallowing Difficulty: No
+Difficulty Waking Up: yes
+Difficulty Sitting Up: yes
+Psoriasis: No
+Healing Time: No
+Painful Eye: No
+Cough: No
+Previous History of Joint Pain, Swelling: Yes
+Medication History: yes, they helped
+Current Medications: No",Rheumatoid Arhtritis
+"Age: 61.0
+Gender: male
+Problems: joint pain, joint swelling
+Duration of Problem: 3285.0 days
+Pain Location: no
+Pain Areas (Image 1): Right shoulder, Right wrist, Right MCP (Metacarpal phalangeal joint), Right PIP (Proximal interphalangeal joint), Right knee, Right ankle, Right midfoot, Left shoulder, Left writst, Right MCP (Metacarpal phalangeal joint), Right PIP (Proximal interphalangeal joint), Right knee, Right ankle, Right midfoot
+Pain Areas (Image 2): nan
+Joint Deformity: no
+Swelling Areas (Image 1): Right wrist, Right MCP (Metacarpal phalangeal joint), Right PIP (Proximal interphalangeal joint), Right knee, Left writst, Right MCP (Metacarpal phalangeal joint), Right PIP (Proximal interphalangeal joint), Right knee
+Swelling Areas (Image 2): nan
+Swelling Pattern: comes and goes (episodic)
+Redness in Swollen Joints: no
+Warm Joints: no
+Pain Time: all the time
+Sleep Disturbance: no
+Sleep Hours: 7.0
+Physical Activity Impact: increase
+Rest Impact: reduce
+Painkillers: yes
+Painkiller Response: good relief
+Fever: yes, less than 100°f
+Skin Rash: No
+Rash in Sun: No
+Mouth Ulcers: No
+Eye Grittiness: itching
+Eye Drops: No
+Swallowing Difficulty: No
+Difficulty Waking Up: yes
+Difficulty Sitting Up: yes
+Psoriasis: No
+Healing Time: No
+Painful Eye: No
+Cough: No
+Previous History of Joint Pain, Swelling: Yes
+Medication History: yes, they helped
+Current Medications: No",Rheumatoid Arhtritis
+"Age: 55.0
+Gender: female
+Problems: joint pain
+Duration of Problem: 2555.0 days
+Pain Location: no
+Pain Areas (Image 1): Right knee, Right knee
+Pain Areas (Image 2): nan
+Joint Deformity: no
+Swelling Areas (Image 1): nan
+Swelling Areas (Image 2): nan
+Swelling Pattern: not applicable
+Redness in Swollen Joints: no
+Warm Joints: no
+Pain Time: morning
+Sleep Disturbance: no
+Sleep Hours: 8.0
+Physical Activity Impact: increase
+Rest Impact: increase
+Painkillers: yes
+Painkiller Response: good relief
+Fever: yes, less than 100°f
+Skin Rash: No
+Rash in Sun: No
+Mouth Ulcers: No
+Eye Grittiness: No
+Eye Drops: No
+Swallowing Difficulty: No
+Difficulty Waking Up: yes
+Difficulty Sitting Up: yes
+Psoriasis: No
+Healing Time: No
+Painful Eye: yes
+Cough: No
+Previous History of Joint Pain, Swelling: Yes
+Medication History: yes, they helped
+Current Medications: yes, hypertension",Rheumatoid Arhtritis
+"Age: 53.0
+Gender: female
+Problems: joint pain, joint swelling
+Duration of Problem: 730.0 days
+Pain Location: yes, lower backache
+Pain Areas (Image 1): Right shoulder, Right wrist, Right MCP (Metacarpal phalangeal joint), Right PIP (Proximal interphalangeal joint), Right knee, Right ankle, Right midfoot, Right toes, Left shoulder, Left writst, Right MCP (Metacarpal phalangeal joint), Right PIP (Proximal interphalangeal joint), Right knee, Right ankle, Right midfoot, Right toes
+Pain Areas (Image 2): nan
+Joint Deformity: no
+Swelling Areas (Image 1): Right wrist, Right MCP (Metacarpal phalangeal joint), Right PIP (Proximal interphalangeal joint), Right ankle, Right midfoot, Left writst, Right MCP (Metacarpal phalangeal joint), Right PIP (Proximal interphalangeal joint), Right ankle, Right midfoot
+Swelling Areas (Image 2): nan
+Swelling Pattern: comes and goes (episodic)
+Redness in Swollen Joints: no
+Warm Joints: no
+Pain Time: morning
+Sleep Disturbance: yes
+Sleep Hours: 4.0
+Physical Activity Impact: increase
+Rest Impact: increase
+Painkillers: yes
+Painkiller Response: good relief
+Fever: yes, less than 100°f
+Skin Rash: yes, hands / feet
+Rash in Sun: No
+Mouth Ulcers: No
+Eye Grittiness: No
+Eye Drops: No
+Swallowing Difficulty: No
+Difficulty Waking Up: yes
+Difficulty Sitting Up: yes
+Psoriasis: No
+Healing Time: No
+Painful Eye: No
+Cough: yes
+Previous History of Joint Pain, Swelling: Yes
+Medication History: yes, they helped
+Current Medications: No",Rheumatoid Arhtritis
+"Age: 32.0
+Gender: female
+Problems: joint pain, joint swelling
+Duration of Problem: 1460.0 days
+Pain Location: no
+Pain Areas (Image 1): Right shoulder, Right wrist, Right MCP (Metacarpal phalangeal joint), Right PIP (Proximal interphalangeal joint), Left shoulder, Left writst, Right MCP (Metacarpal phalangeal joint), Right PIP (Proximal interphalangeal joint)
+Pain Areas (Image 2): nan
+Joint Deformity: no
+Swelling Areas (Image 1): Right wrist, Right MCP (Metacarpal phalangeal joint), Left writst, Right MCP (Metacarpal phalangeal joint)
+Swelling Areas (Image 2): nan
+Swelling Pattern: comes and goes (episodic)
+Redness in Swollen Joints: no
+Warm Joints: no
+Pain Time: morning
+Sleep Disturbance: no
+Sleep Hours: 7.0
+Physical Activity Impact: increase
+Rest Impact: increase
+Painkillers: no
+Painkiller Response: not applicable
+Fever: yes, less than 100°f
+Skin Rash: No
+Rash in Sun: No
+Mouth Ulcers: No
+Eye Grittiness: No
+Eye Drops: No
+Swallowing Difficulty: No
+Difficulty Waking Up: No
+Difficulty Sitting Up: No
+Psoriasis: No
+Healing Time: No
+Painful Eye: No
+Cough: yes
+Previous History of Joint Pain, Swelling: Yes
+Medication History: yes, they helped
+Current Medications: yes, thyroid problem",Rheumatoid Arhtritis
+"Age: 30.0
+Gender: female
+Problems: joint pain, joint swelling
+Duration of Problem: 1095.0 days
+Pain Location: yes, lower backache
+Pain Areas (Image 1): Right knee, Right ankle, Right midfoot, Right toes, Right knee, Right ankle, Right midfoot, Right toes
+Pain Areas (Image 2): nan
+Joint Deformity: no
+Swelling Areas (Image 1): Right knee, Right knee
+Swelling Areas (Image 2): nan
+Swelling Pattern: comes and goes (episodic)
+Redness in Swollen Joints: no
+Warm Joints: no
+Pain Time: all the time
+Sleep Disturbance: no
+Sleep Hours: 7.0
+Physical Activity Impact: increase
+Rest Impact: reduce
+Painkillers: yes
+Painkiller Response: good relief
+Fever: yes, less than 100°f
+Skin Rash: No
+Rash in Sun: No
+Mouth Ulcers: No
+Eye Grittiness: No
+Eye Drops: No
+Swallowing Difficulty: No
+Difficulty Waking Up: yes
+Difficulty Sitting Up: No
+Psoriasis: No
+Healing Time: No
+Painful Eye: No
+Cough: No
+Previous History of Joint Pain, Swelling: Yes
+Medication History: yes, they helped
+Current Medications: No",Rheumatoid Arhtritis
+"Age: 48.0
+Gender: female
+Problems: joint pain
+Duration of Problem: 3285.0 days
+Pain Location: no
+Pain Areas (Image 1): Right wrist, Right MCP (Metacarpal phalangeal joint), Right PIP (Proximal interphalangeal joint), Right knee, Right ankle, Right midfoot, Left writst, Right MCP (Metacarpal phalangeal joint), Right PIP (Proximal interphalangeal joint), Right knee
+Pain Areas (Image 2): nan
+Joint Deformity: no
+Swelling Areas (Image 1): nan
+Swelling Areas (Image 2): nan
+Swelling Pattern: not applicable
+Redness in Swollen Joints: yes
+Warm Joints: yes
+Pain Time: all the time
+Sleep Disturbance: no
+Sleep Hours: 7.0
+Physical Activity Impact: increase
+Rest Impact: reduce
+Painkillers: yes
+Painkiller Response: good relief
+Fever: yes, less than 100°f
+Skin Rash: yes, hands / feet
+Rash in Sun: No
+Mouth Ulcers: No
+Eye Grittiness: No
+Eye Drops: No
+Swallowing Difficulty: No
+Difficulty Waking Up: No
+Difficulty Sitting Up: No
+Psoriasis: No
+Healing Time: No
+Painful Eye: No
+Cough: No
+Previous History of Joint Pain, Swelling: Yes
+Medication History: yes, they helped
+Current Medications: No",Rheumatoid Arhtritis
+"Age: 62.0
+Gender: female
+Problems: joint pain
+Duration of Problem: 1095.0 days
+Pain Location: no
+Pain Areas (Image 1): Right wrist, Right MCP (Metacarpal phalangeal joint), Right knee, Right ankle, Left writst, Right MCP (Metacarpal phalangeal joint), Right knee, Right ankle
+Pain Areas (Image 2): nan
+Joint Deformity: no
+Swelling Areas (Image 1): Right wrist, Right knee, Left writst, Right knee
+Swelling Areas (Image 2): nan
+Swelling Pattern: comes and goes (episodic)
+Redness in Swollen Joints: yes
+Warm Joints: yes
+Pain Time: night
+Sleep Disturbance: yes
+Sleep Hours: 4.0
+Physical Activity Impact: increase
+Rest Impact: reduce
+Painkillers: yes
+Painkiller Response: moderate relief
+Fever: No
+Skin Rash: No
+Rash in Sun: No
+Mouth Ulcers: No
+Eye Grittiness: No
+Eye Drops: No
+Swallowing Difficulty: No
+Difficulty Waking Up: yes
+Difficulty Sitting Up: yes
+Psoriasis: No
+Healing Time: No
+Painful Eye: No
+Cough: No
+Previous History of Joint Pain, Swelling: Yes
+Medication History: yes, they helped
+Current Medications: yes, diabetes, yes, hypertension",Rheumatoid Arhtritis
+"Age: 57.0
+Gender: female
+Problems: joint pain, joint swelling, inability to move hand / feet, morning stiffness
+Duration of Problem: 3285.0 days
+Pain Location: yes, lower backache
+Pain Areas (Image 1): Right forearm, Right wrist, Right MCP (Metacarpal phalangeal joint), Right knee, Right ankle, Left forearm, Left writst, Right MCP (Metacarpal phalangeal joint), Right knee
+Pain Areas (Image 2): Lower back (left PSIS), Right PSIS
+Joint Deformity: yes, left hand, yes, right hand
+Swelling Areas (Image 1): Right wrist, Right MCP (Metacarpal phalangeal joint), Right knee, Left writst, Right MCP (Metacarpal phalangeal joint), Right knee
+Swelling Areas (Image 2): nan
+Swelling Pattern: comes and goes (episodic)
+Redness in Swollen Joints: yes
+Warm Joints: yes
+Pain Time: morning
+Sleep Disturbance: no
+Sleep Hours: 8.0
+Physical Activity Impact: reduce
+Rest Impact: increase
+Painkillers: yes
+Painkiller Response: good relief
+Fever: yes, 100-102°f
+Skin Rash: No
+Rash in Sun: No
+Mouth Ulcers: No
+Eye Grittiness: No
+Eye Drops: No
+Swallowing Difficulty: No
+Difficulty Waking Up: yes
+Difficulty Sitting Up: yes
+Psoriasis: No
+Healing Time: No
+Painful Eye: No
+Cough: No
+Previous History of Joint Pain, Swelling: Yes
+Medication History: yes, they helped
+Current Medications: yes, diabetes, yes, hypertension",Rheumatoid Arhtritis
+"Age: 59.0
+Gender: female
+Problems: joint pain, joint swelling
+Duration of Problem: 1095.0 days
+Pain Location: no
+Pain Areas (Image 1): Right wrist, Right MCP (Metacarpal phalangeal joint), Right knee, Right ankle, Left writst, Right MCP (Metacarpal phalangeal joint), Right knee, Right ankle
+Pain Areas (Image 2): nan
+Joint Deformity: no
+Swelling Areas (Image 1): Right wrist, Right MCP (Metacarpal phalangeal joint), Right ankle, Left writst, Right MCP (Metacarpal phalangeal joint), Right ankle
+Swelling Areas (Image 2): nan
+Swelling Pattern: comes and goes (episodic)
+Redness in Swollen Joints: yes
+Warm Joints: yes
+Pain Time: all the time
+Sleep Disturbance: no
+Sleep Hours: 6.0
+Physical Activity Impact: reduce
+Rest Impact: increase
+Painkillers: yes
+Painkiller Response: good relief
+Fever: yes, less than 100°f
+Skin Rash: No
+Rash in Sun: No
+Mouth Ulcers: No
+Eye Grittiness: No
+Eye Drops: No
+Swallowing Difficulty: No
+Difficulty Waking Up: No
+Difficulty Sitting Up: No
+Psoriasis: No
+Healing Time: No
+Painful Eye: No
+Cough: No
+Previous History of Joint Pain, Swelling: Yes
+Medication History: yes, they helped
+Current Medications: yes, diabetes, yes, hypertension",Rheumatoid Arhtritis
+"Age: 53.0
+Gender: female
+Problems: inability to move hand / feet, morning stiffness
+Duration of Problem: 3285.0 days
+Pain Location: yes, lower backache
+Pain Areas (Image 1): Right forearm, Right wrist, Right MCP (Metacarpal phalangeal joint), Right knee, Right ankle, Left forearm, Left writst, Right MCP (Metacarpal phalangeal joint), Right knee, Right ankle
+Pain Areas (Image 2): Lower back (left PSIS), Right PSIS, Low back
+Joint Deformity: yes, left hand, yes, right hand, yes, right elbow
+Swelling Areas (Image 1): Right wrist, Right MCP (Metacarpal phalangeal joint), Right ankle, Left writst, Right MCP (Metacarpal phalangeal joint), Right ankle
+Swelling Areas (Image 2): nan
+Swelling Pattern: comes and goes (episodic)
+Redness in Swollen Joints: yes
+Warm Joints: yes
+Pain Time: all the time
+Sleep Disturbance: no
+Sleep Hours: 8.0
+Physical Activity Impact: reduce
+Rest Impact: increase
+Painkillers: yes
+Painkiller Response: moderate relief
+Fever: yes, 100-102°f
+Skin Rash: No
+Rash in Sun: No
+Mouth Ulcers: No
+Eye Grittiness: No
+Eye Drops: No
+Swallowing Difficulty: No
+Difficulty Waking Up: yes
+Difficulty Sitting Up: yes
+Psoriasis: No
+Healing Time: yes
+Painful Eye: No
+Cough: yes
+Previous History of Joint Pain, Swelling: Yes
+Medication History: yes, but they did not help
+Current Medications: yes, diabetes, yes, hypertension",Rheumatoid Arhtritis
+"Age: 67.0
+Gender: female
+Problems: joint pain, joint swelling
+Duration of Problem: 3285.0 days
+Pain Location: no
+Pain Areas (Image 1): Right shoulder, Right wrist, Right MCP (Metacarpal phalangeal joint), Right PIP (Proximal interphalangeal joint), Right knee, Right ankle, Right midfoot, Right toes, Left shoulder, Left writst, Right MCP (Metacarpal phalangeal joint), Right PIP (Proximal interphalangeal joint), Right knee, Right ankle, Right midfoot, Right toes
+Pain Areas (Image 2): nan
+Joint Deformity: no
+Swelling Areas (Image 1): Right knee, Right ankle, Right midfoot, Right toes, Left shoulder, Left writst, Right MCP (Metacarpal phalangeal joint), Right PIP (Proximal interphalangeal joint), Right knee, Right ankle, Right midfoot, Right toes
+Swelling Areas (Image 2): nan
+Swelling Pattern: constant (persistent)
+Redness in Swollen Joints: no
+Warm Joints: yes
+Pain Time: morning
+Sleep Disturbance: no
+Sleep Hours: 8.0
+Physical Activity Impact: increase
+Rest Impact: increase
+Painkillers: yes
+Painkiller Response: good relief
+Fever: yes, less than 100°f
+Skin Rash: No
+Rash in Sun: No
+Mouth Ulcers: No
+Eye Grittiness: No
+Eye Drops: No
+Swallowing Difficulty: No
+Difficulty Waking Up: yes
+Difficulty Sitting Up: yes
+Psoriasis: No
+Healing Time: No
+Painful Eye: No
+Cough: No
+Previous History of Joint Pain, Swelling: Yes
+Medication History: yes, they helped
+Current Medications: yes, hypertension",Rheumatoid Arhtritis
+"Age: 58.0
+Gender: female
+Problems: joint pain, joint swelling
+Duration of Problem: 1460.0 days
+Pain Location: yes, lower backache
+Pain Areas (Image 1): Right shoulder, Right forearm, Right knee, Left shoulder, Right knee
+Pain Areas (Image 2): Right PSIS
+Joint Deformity: no
+Swelling Areas (Image 1): Right knee, Right knee
+Swelling Areas (Image 2): nan
+Swelling Pattern: not applicable
+Redness in Swollen Joints: not applicable
+Warm Joints: no
+Pain Time: morning
+Sleep Disturbance: no
+Sleep Hours: 8.0
+Physical Activity Impact: increase
+Rest Impact: increase
+Painkillers: yes
+Painkiller Response: good relief
+Fever: yes, less than 100°f
+Skin Rash: yes, hands / feet
+Rash in Sun: No
+Mouth Ulcers: No
+Eye Grittiness: No
+Eye Drops: No
+Swallowing Difficulty: No
+Difficulty Waking Up: yes
+Difficulty Sitting Up: No
+Psoriasis: No
+Healing Time: No
+Painful Eye: No
+Cough: No
+Previous History of Joint Pain, Swelling: Yes
+Medication History: yes, they helped
+Current Medications: yes, diabetes, yes, hypertension",Rheumatoid Arhtritis
+"Age: 43.0
+Gender: female
+Problems: joint pain, joint swelling
+Duration of Problem: 0.0 days
+Pain Location: no
+Pain Areas (Image 1): Right shoulder, Right wrist, Right MCP (Metacarpal phalangeal joint), Right PIP (Proximal interphalangeal joint), Right knee, Left shoulder, Right MCP (Metacarpal phalangeal joint), Right PIP (Proximal interphalangeal joint), Right thigh, Right knee, Right ankle, Right midfoot, Right toes
+Pain Areas (Image 2): nan
+Joint Deformity: no
+Swelling Areas (Image 1): Right knee, Right ankle, Right midfoot, Right toes, Left shoulder, Left writst, Right MCP (Metacarpal phalangeal joint), Right PIP (Proximal interphalangeal joint), Right knee, Right ankle, Right midfoot, Right toes
+Swelling Areas (Image 2): nan
+Swelling Pattern: comes and goes (episodic)
+Redness in Swollen Joints: no
+Warm Joints: yes
+Pain Time: morning
+Sleep Disturbance: no
+Sleep Hours: 7.0
+Physical Activity Impact: increase
+Rest Impact: reduce
+Painkillers: yes
+Painkiller Response: good relief
+Fever: yes, less than 100°f
+Skin Rash: yes, hands / feet
+Rash in Sun: No
+Mouth Ulcers: No
+Eye Grittiness: No
+Eye Drops: No
+Swallowing Difficulty: No
+Difficulty Waking Up: yes
+Difficulty Sitting Up: No
+Psoriasis: No
+Healing Time: No
+Painful Eye: No
+Cough: No
+Previous History of Joint Pain, Swelling: Yes
+Medication History: yes, they helped
+Current Medications: No",Rheumatoid Arhtritis
+"Age: 33.0
+Gender: female
+Problems: joint pain, joint swelling
+Duration of Problem: 1825.0 days
+Pain Location: yes, lower backache
+Pain Areas (Image 1): Right knee, Right ankle, Right midfoot, Right toes, Right knee, Right ankle, Right midfoot, Right toes
+Pain Areas (Image 2): nan
+Joint Deformity: yes, left hand, yes, right hand
+Swelling Areas (Image 1): Right ankle, Right midfoot, Right toes, Right ankle, Right midfoot, Right toes
+Swelling Areas (Image 2): nan
+Swelling Pattern: comes and goes (episodic)
+Redness in Swollen Joints: no
+Warm Joints: no
+Pain Time: morning
+Sleep Disturbance: no
+Sleep Hours: 8.0
+Physical Activity Impact: reduce
+Rest Impact: increase
+Painkillers: yes
+Painkiller Response: good relief
+Fever: yes, less than 100°f
+Skin Rash: No
+Rash in Sun: No
+Mouth Ulcers: No
+Eye Grittiness: No
+Eye Drops: No
+Swallowing Difficulty: No
+Difficulty Waking Up: yes
+Difficulty Sitting Up: No
+Psoriasis: No
+Healing Time: No
+Painful Eye: No
+Cough: No
+Previous History of Joint Pain, Swelling: Yes
+Medication History: yes, they helped
+Current Medications: No",Rheumatoid Arhtritis
+"Age: 59.0
+Gender: female
+Problems: joint pain
+Duration of Problem: 730.0 days
+Pain Location: no
+Pain Areas (Image 1): Right shoulder, Right wrist, Right MCP (Metacarpal phalangeal joint), Right PIP (Proximal interphalangeal joint), Right knee, Left shoulder, Left writst, Right MCP (Metacarpal phalangeal joint), Right PIP (Proximal interphalangeal joint), Right knee
+Pain Areas (Image 2): nan
+Joint Deformity: no
+Swelling Areas (Image 1): nan
+Swelling Areas (Image 2): nan
+Swelling Pattern: not applicable
+Redness in Swollen Joints: no
+Warm Joints: yes
+Pain Time: all the time
+Sleep Disturbance: no
+Sleep Hours: 5.0
+Physical Activity Impact: increase
+Rest Impact: increase
+Painkillers: yes
+Painkiller Response: good relief
+Fever: yes, less than 100°f
+Skin Rash: yes, hands / feet
+Rash in Sun: No
+Mouth Ulcers: yes
+Eye Grittiness: itching
+Eye Drops: No
+Swallowing Difficulty: No
+Difficulty Waking Up: yes
+Difficulty Sitting Up: No
+Psoriasis: No
+Healing Time: No
+Painful Eye: No
+Cough: No
+Previous History of Joint Pain, Swelling: Yes
+Medication History: yes, they helped
+Current Medications: yes, thyroid problem",Rheumatoid Arhtritis
+"Age: 35.0
+Gender: female
+Problems: joint pain, joint swelling
+Duration of Problem: 2920.0 days
+Pain Location: no
+Pain Areas (Image 1): Right shoulder, Right wrist, Right MCP (Metacarpal phalangeal joint), Right PIP (Proximal interphalangeal joint), Right knee, Right ankle, Right midfoot, Right toes, Left shoulder, Left writst, Right MCP (Metacarpal phalangeal joint), Right PIP (Proximal interphalangeal joint), Right knee, Right ankle, Right midfoot, Right toes
+Pain Areas (Image 2): nan
+Joint Deformity: no
+Swelling Areas (Image 1): Right knee, Right knee
+Swelling Areas (Image 2): nan
+Swelling Pattern: comes and goes (episodic)
+Redness in Swollen Joints: yes
+Warm Joints: yes
+Pain Time: morning
+Sleep Disturbance: yes
+Sleep Hours: 5.0
+Physical Activity Impact: reduce
+Rest Impact: increase
+Painkillers: yes
+Painkiller Response: moderate relief
+Fever: yes, less than 100°f
+Skin Rash: No
+Rash in Sun: No
+Mouth Ulcers: No
+Eye Grittiness: No
+Eye Drops: No
+Swallowing Difficulty: No
+Difficulty Waking Up: yes
+Difficulty Sitting Up: yes
+Psoriasis: No
+Healing Time: No
+Painful Eye: No
+Cough: No
+Previous History of Joint Pain, Swelling: Yes
+Medication History: yes, they helped
+Current Medications: yes, thyroid problem",Rheumatoid Arhtritis
+"Age: 63.0
+Gender: female
+Problems: joint pain, joint swelling
+Duration of Problem: 210.0 days
+Pain Location: yes, lower backache
+Pain Areas (Image 1): Right shoulder, Right wrist, Right MCP (Metacarpal phalangeal joint), Right PIP (Proximal interphalangeal joint), Right knee, Right ankle, Left writst, Right MCP (Metacarpal phalangeal joint), Right PIP (Proximal interphalangeal joint), Right ankle, Right midfoot, Right toes
+Pain Areas (Image 2): nan
+Joint Deformity: no
+Swelling Areas (Image 1): Right wrist, Right MCP (Metacarpal phalangeal joint), Right PIP (Proximal interphalangeal joint), Left writst, Right MCP (Metacarpal phalangeal joint), Right PIP (Proximal interphalangeal joint)
+Swelling Areas (Image 2): nan
+Swelling Pattern: constant (persistent)
+Redness in Swollen Joints: yes
+Warm Joints: yes
+Pain Time: morning
+Sleep Disturbance: no
+Sleep Hours: 7.0
+Physical Activity Impact: reduce
+Rest Impact: increase
+Painkillers: yes
+Painkiller Response: good relief
+Fever: yes, less than 100°f
+Skin Rash: No
+Rash in Sun: No
+Mouth Ulcers: No
+Eye Grittiness: No
+Eye Drops: No
+Swallowing Difficulty: No
+Difficulty Waking Up: yes
+Difficulty Sitting Up: yes
+Psoriasis: No
+Healing Time: No
+Painful Eye: No
+Cough: No
+Previous History of Joint Pain, Swelling: Yes
+Medication History: yes, they helped
+Current Medications: No",Rheumatoid Arhtritis

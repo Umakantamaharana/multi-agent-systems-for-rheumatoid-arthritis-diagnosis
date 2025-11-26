@@ -1,0 +1,391 @@
+Reasons,Predicted Labels,Actual Labels
+"
+
+Not Rheumatoid Arthritis","
+
+Not Rheumatoid Arthritis",Not Rheumatoid Arhtritis
+"
+
+Not Rheumatoid Arthritis","
+
+Not Rheumatoid Arthritis",Not Rheumatoid Arhtritis
+"
+
+Rheumatoid Arthritis","
+
+Rheumatoid Arthritis",Not Rheumatoid Arhtritis
+"
+
+Not Rheumatoid Arthritis","
+
+Not Rheumatoid Arthritis",Not Rheumatoid Arhtritis
+NA,NA,Not Rheumatoid Arhtritis
+"
+
+Rheumatoid Arthritis","
+
+Rheumatoid Arthritis",Not Rheumatoid Arhtritis
+"
+
+Rheumatoid Arthritis","
+
+Rheumatoid Arthritis",Not Rheumatoid Arhtritis
+"
+
+Not Rheumatoid Arthritis","
+
+Not Rheumatoid Arthritis",Not Rheumatoid Arhtritis
+NA,NA,Not Rheumatoid Arhtritis
+"
+
+Not Rheumatoid Arthritis","
+
+Not Rheumatoid Arthritis",Not Rheumatoid Arhtritis
+"
+
+Rheumatoid Arthritis","
+
+Rheumatoid Arthritis",Not Rheumatoid Arhtritis
+"
+
+Not Rheumatoid Arthritis","
+
+Not Rheumatoid Arthritis",Rheumatoid Arhtritis
+"
+
+Rheumatoid Arthritis","
+
+Rheumatoid Arthritis",Rheumatoid Arhtritis
+"
+
+Rheumatoid Arthritis","
+
+Rheumatoid Arthritis",Rheumatoid Arhtritis
+"
+
+Not Rheumatoid Arthritis","
+
+Not Rheumatoid Arthritis",Rheumatoid Arhtritis
+"
+
+Rheumatoid Arthritis","
+
+Rheumatoid Arthritis",Rheumatoid Arhtritis
+"
+
+Rheumatoid Arthritis","
+
+Rheumatoid Arthritis",Rheumatoid Arhtritis
+"
+
+Rheumatoid Arthritis","
+
+Rheumatoid Arthritis",Rheumatoid Arhtritis
+"
+
+Rheumatoid Arthritis","
+
+Rheumatoid Arthritis",Rheumatoid Arhtritis
+"
+
+Rheumatoid Arthritis","
+
+Rheumatoid Arthritis",Rheumatoid Arhtritis
+"
+
+**Diagnosis: Rheumatoid Arthritis (RA)**
+
+**Key Clinical Findings Supporting the Diagnosis:**
+1. **Symmetric Involvement of Small Joints:** 
+   - The patient reports pain and swelling in multiple small joints (e.g., wrists, metacarpophalangeal joints [MCP], proximal interphalangeal joints [PIP]). Symmetric involvement is a hallmark of RA.
+
+2. **Longstanding Duration (Chronic Symptoms):** 
+   - Symptoms have been present for **5 years**, consistent with chronic inflammatory arthritis like RA.
+
+3. **Morning Pain/Stiffness:** 
+   - Morning stiffness, even if the duration (e.g., >30 minutes) is not specified, is a classic feature of RA. Persistent morning symptoms suggest underlying inflammation.
+
+4. **Swelling Pattern:** 
+   - Episodic swelling is typical of RA, where inflammation can fluctuate over time.
+
+5. **Systemic Symptoms:** 
+   - Low-grade fever supports chronic inflammatory activity, commonly seen in autoimmune conditions like RA.
+
+**Considered Differential Diagnoses:**
+- **Osteoarthritis (OA):** Unlikely due to absence of age-related wear-and-tear pattern (e.g., weight-bearing joints like knees) and lack of asymmetric involvement.
+- **Psoriatic Arthritis:** Excluded due to no skin psoriasis or nail changes.
+- **Gout:** Unlikely given the absence of warmth, redness, and acute flares.
+- **Sjögren’s Syndrome:** Eye symptoms (gritty sensation) could suggest this, but sicca symptoms (dry eyes/mouth) and autoantibodies (anti-SSA/SSB) are needed for confirmation.
+
+**Limitations and Considerations:** 
+- **Absence of Warmth/Redness:** RA typically involves warm, tender joints, but chronic or subacute inflammation may reduce these signs. 
+- **No Laboratory Data:** Serological markers (anti-CCP, RF) and inflammatory markers (ESR, CRP) would strengthen the diagnosis but were not provided.
+
+**Conclusion:** 
+The combination of symmetric small joint involvement, chronicity, morning symptoms, and systemic features align most strongly with **RA**. While blood tests are ideal for confirmation, the clinical presentation fits RA even without serological data. Further evaluation with imaging (e.g., X-rays, ultrasound) and laboratory tests (e.g., RF, anti-CCP, ESR, CRP) is warranted to confirm the diagnosis and rule out other conditions. 
+
+**Next Steps for Management:** 
+- Initiate DMARD therapy (e.g., methotrexate) if not already done.
+- Perform imaging and blood tests to assess disease activity and progression.
+- Evaluate eye symptoms for secondary Sjögren’s syndrome or uveitis.","
+
+**Diagnosis: Rheumatoid Arthritis (RA)**
+
+**Key Clinical Findings Supporting the Diagnosis:**
+1. **Symmetric Involvement of Small Joints:** 
+   - The patient reports pain and swelling in multiple small joints (e.g., wrists, metacarpophalangeal joints [MCP], proximal interphalangeal joints [PIP]). Symmetric involvement is a hallmark of RA.
+
+2. **Longstanding Duration (Chronic Symptoms):** 
+   - Symptoms have been present for **5 years**, consistent with chronic inflammatory arthritis like RA.
+
+3. **Morning Pain/Stiffness:** 
+   - Morning stiffness, even if the duration (e.g., >30 minutes) is not specified, is a classic feature of RA. Persistent morning symptoms suggest underlying inflammation.
+
+4. **Swelling Pattern:** 
+   - Episodic swelling is typical of RA, where inflammation can fluctuate over time.
+
+5. **Systemic Symptoms:** 
+   - Low-grade fever supports chronic inflammatory activity, commonly seen in autoimmune conditions like RA.
+
+**Considered Differential Diagnoses:**
+- **Osteoarthritis (OA):** Unlikely due to absence of age-related wear-and-tear pattern (e.g., weight-bearing joints like knees) and lack of asymmetric involvement.
+- **Psoriatic Arthritis:** Excluded due to no skin psoriasis or nail changes.
+- **Gout:** Unlikely given the absence of warmth, redness, and acute flares.
+- **Sjögren’s Syndrome:** Eye symptoms (gritty sensation) could suggest this, but sicca symptoms (dry eyes/mouth) and autoantibodies (anti-SSA/SSB) are needed for confirmation.
+
+**Limitations and Considerations:** 
+- **Absence of Warmth/Redness:** RA typically involves warm, tender joints, but chronic or subacute inflammation may reduce these signs. 
+- **No Laboratory Data:** Serological markers (anti-CCP, RF) and inflammatory markers (ESR, CRP) would strengthen the diagnosis but were not provided.
+
+**Conclusion:** 
+The combination of symmetric small joint involvement, chronicity, morning symptoms, and systemic features align most strongly with **RA**. While blood tests are ideal for confirmation, the clinical presentation fits RA even without serological data. Further evaluation with imaging (e.g., X-rays, ultrasound) and laboratory tests (e.g., RF, anti-CCP, ESR, CRP) is warranted to confirm the diagnosis and rule out other conditions. 
+
+**Next Steps for Management:** 
+- Initiate DMARD therapy (e.g., methotrexate) if not already done.
+- Perform imaging and blood tests to assess disease activity and progression.
+- Evaluate eye symptoms for secondary Sjögren’s syndrome or uveitis.",Rheumatoid Arhtritis
+"
+
+Rheumatoid Arthritis","
+
+Rheumatoid Arthritis",Rheumatoid Arhtritis
+"
+
+Not Rheumatoid Arthritis","
+
+Not Rheumatoid Arthritis",Rheumatoid Arhtritis
+"
+
+Rheumatoid Arthritis","
+
+Rheumatoid Arthritis",Rheumatoid Arhtritis
+"
+
+Rheumatoid Arthritis","
+
+Rheumatoid Arthritis",Rheumatoid Arhtritis
+"
+
+Rheumatoid Arthritis","
+
+Rheumatoid Arthritis",Rheumatoid Arhtritis
+"
+
+Rheumatoid Arthritis","
+
+Rheumatoid Arthritis",Rheumatoid Arhtritis
+"
+
+Rheumatoid Arthritis","
+
+Rheumatoid Arthritis",Rheumatoid Arhtritis
+"
+
+Rheumatoid Arthritis","
+
+Rheumatoid Arthritis",Rheumatoid Arhtritis
+"
+
+Rheumatoid Arthritis","
+
+Rheumatoid Arthritis",Rheumatoid Arhtritis
+"
+
+Rheumatoid Arthritis","
+
+Rheumatoid Arthritis",Rheumatoid Arhtritis
+"
+
+Rheumatoid Arthritis","
+
+Rheumatoid Arthritis",Rheumatoid Arhtritis
+"
+
+Not Rheumatoid Arthritis","
+
+Not Rheumatoid Arthritis",Rheumatoid Arhtritis
+"
+
+Rheumatoid Arthritis","
+
+Rheumatoid Arthritis",Rheumatoid Arhtritis
+"
+
+Rheumatoid Arthritis","
+
+Rheumatoid Arthritis",Rheumatoid Arhtritis
+"
+
+Rheumatoid Arthritis","
+
+Rheumatoid Arthritis",Rheumatoid Arhtritis
+"
+
+Rheumatoid Arthritis","
+
+Rheumatoid Arthritis",Rheumatoid Arhtritis
+"
+
+Rheumatoid Arthritis","
+
+Rheumatoid Arthritis",Rheumatoid Arhtritis
+"
+
+Rheumatoid Arthritis","
+
+Rheumatoid Arthritis",Rheumatoid Arhtritis
+"
+
+Not Rheumatoid Arthritis","
+
+Not Rheumatoid Arthritis",Rheumatoid Arhtritis
+"
+
+Rheumatoid Arthritis","
+
+Rheumatoid Arthritis",Rheumatoid Arhtritis
+"
+
+Rheumatoid Arthritis","
+
+Rheumatoid Arthritis",Rheumatoid Arhtritis
+"
+
+Rheumatoid Arthritis","
+
+Rheumatoid Arthritis",Rheumatoid Arhtritis
+"
+
+Rheumatoid Arthritis","
+
+Rheumatoid Arthritis",Rheumatoid Arhtritis
+"
+
+Rheumatoid Arthritis","
+
+Rheumatoid Arthritis",Rheumatoid Arhtritis
+"
+
+Rheumatoid Arthritis","
+
+Rheumatoid Arthritis",Rheumatoid Arhtritis
+"
+
+Not Rheumatoid Arthritis","
+
+Not Rheumatoid Arthritis",Rheumatoid Arhtritis
+"
+
+Rheumatoid Arthritis","
+
+Rheumatoid Arthritis",Rheumatoid Arhtritis
+"
+
+Rheumatoid Arthritis","
+
+Rheumatoid Arthritis",Rheumatoid Arhtritis
+"
+
+Rheumatoid Arthritis","
+
+Rheumatoid Arthritis",Rheumatoid Arhtritis
+"
+
+Rheumatoid Arthritis","
+
+Rheumatoid Arthritis",Rheumatoid Arhtritis
+"
+
+Rheumatoid Arthritis","
+
+Rheumatoid Arthritis",Rheumatoid Arhtritis
+"
+
+Rheumatoid Arthritis","
+
+Rheumatoid Arthritis",Rheumatoid Arhtritis
+"
+
+Rheumatoid Arthritis","
+
+Rheumatoid Arthritis",Rheumatoid Arhtritis
+"
+
+Rheumatoid Arthritis","
+
+Rheumatoid Arthritis",Rheumatoid Arhtritis
+"
+
+Rheumatoid Arthritis","
+
+Rheumatoid Arthritis",Rheumatoid Arhtritis
+"
+
+Rheumatoid Arthritis","
+
+Rheumatoid Arthritis",Rheumatoid Arhtritis
+"
+
+Rheumatoid Arthritis","
+
+Rheumatoid Arthritis",Rheumatoid Arhtritis
+"
+
+Rheumatoid Arthritis","
+
+Rheumatoid Arthritis",Rheumatoid Arhtritis
+"
+
+Rheumatoid Arthritis","
+
+Rheumatoid Arthritis",Rheumatoid Arhtritis
+"
+
+Rheumatoid Arthritis","
+
+Rheumatoid Arthritis",Rheumatoid Arhtritis
+"
+
+Rheumatoid Arthritis","
+
+Rheumatoid Arthritis",Rheumatoid Arhtritis
+"
+
+Rheumatoid Arthritis","
+
+Rheumatoid Arthritis",Rheumatoid Arhtritis
+"
+
+Not Rheumatoid Arthritis","
+
+Not Rheumatoid Arthritis",Rheumatoid Arhtritis
+"
+
+Rheumatoid Arthritis","
+
+Rheumatoid Arthritis",Rheumatoid Arhtritis
+"
+
+Rheumatoid Arthritis","
+
+Rheumatoid Arthritis",Rheumatoid Arhtritis
