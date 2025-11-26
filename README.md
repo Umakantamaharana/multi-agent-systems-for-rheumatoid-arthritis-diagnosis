@@ -1,10 +1,34 @@
 # Multi-Agent Systems for Rheumatoid Arthritis Diagnosis (RPWR)
 
-**Right Prediction Wrong Reasoning** - A research project exploring multi-agent LLM systems for medical diagnosis, specifically focused on Rheumatoid Arthritis screening and diagnosis.
+## Right Prediction, Wrong Reasoning: Uncovering LLM Misalignment in RA Disease Diagnosis
+
+**Project Website**: [https://umakantamaharana.github.io/rpwr.github.io/](https://umakantamaharana.github.io/rpwr.github.io/)  
+**arXiv Paper**: [arXiv:2504.06581v1 [cs.AI]](https://arxiv.org/pdf/2504.06581)
+
+### Authors
+- **[Umakanta Maharana](https://umakantamaharana.github.io/)** - RespAI Lab, KIIT Bhubaneswar  
+- **Sarthak Verma** - KIMS Bhubaneswar  
+- **Avarna Agarwal** - KIMS Bhubaneswar  
+- **Prakashini Mruthyunjaya** - KIMS Bhubaneswar  
+- **Dwarikanath Mahapatra** - Monash University, Australia  
+- **Sakir Ahmed** - KIMS Bhubaneswar  
+- **[Murari Mandal](https://murarimandal.github.io/)** - RespAI Lab, KIIT Bhubaneswar  
+
+*Correspondence*: [Murari Mandal](https://murarimandal.github.io/)
+
+---
 
 ## 🎯 Project Overview
 
-This project implements and evaluates different multi-agent architectures using Large Language Models (LLMs) to diagnose Rheumatoid Arthritis from patient symptom data. The system explores various agent configurations with and without knowledge base integration.
+This research project explores multi-agent LLM systems for medical diagnosis, specifically focused on Rheumatoid Arthritis (RA) screening and diagnosis. The study investigates the phenomenon of "Right Prediction, Wrong Reasoning" in LLM-based medical diagnosis systems.
+
+### Key Highlights
+- **Dataset**: PreRAID, comprising 160 patient records from KIMS, Bhubaneswar
+- **Diagnosis Accuracy**: LLMs predicted RA with **95% accuracy**
+- **Reasoning Validation**: Expert review revealed **68% flawed reasoning** despite correct predictions
+- **Implications**: Highlights the critical need for reliable reasoning in clinical AI tools
+
+This project implements and evaluates different multi-agent architectures using Large Language Models (LLMs) to diagnose Rheumatoid Arthritis from patient symptom data, exploring various agent configurations with and without knowledge base integration.
 
 ### Key Features
 
@@ -194,20 +218,45 @@ This is a research project. If you'd like to contribute:
 3. Make your changes
 4. Submit a pull request
 
-## 📄 License
 
-[Add your license information here]
+## 📄 Citation
+
+If you use the PreRAID dataset or this codebase in your research, please cite our paper:
+
+```bibtex
+@misc{maharana2025rightpredictionwrongreasoning,
+      title={Right Prediction, Wrong Reasoning: Uncovering LLM Misalignment in RA Disease Diagnosis}, 
+      author={Umakanta Maharana and Sarthak Verma and Avarna Agarwal and Prakashini Mruthyunjaya and Dwarikanath Mahapatra and Sakir Ahmed and Murari Mandal},
+      year={2025},
+      eprint={2504.06581},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2504.06581}, 
+}
+```
 
 ## 📧 Contact
 
-[Add contact information here]
+For questions or collaborations, please contact:
+- **Murari Mandal**: [murarimandal.github.io](https://murarimandal.github.io/)
+- **Umakanta Maharana**: [umakantamaharana.github.io](https://umakantamaharana.github.io/)
 
 ## 🙏 Acknowledgments
+
+This research is supported by the **Science and Engineering Research Board (SERB), India** under Grant **SRG/2023/001686**.
 
 This project uses:
 - LangChain for LLM orchestration
 - ChromaDB for vector storage
 - OpenAI, Google, and Ollama for LLM inference
+
+Parts of the project website were adopted from the [Nerfies](https://nerfies.github.io/) page.
+
+## 📜 License
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a>
+
+This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 
 ---
 
